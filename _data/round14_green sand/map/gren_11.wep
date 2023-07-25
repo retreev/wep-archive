@@ -1,0 +1,3325 @@
+#WEP V1.20 for Pangya
+#This is auto generated project file which is made by WangED. Don't edit this file.
+
+
+*RootDir "D:/ProjectG_S4/bin/"
+
+*NumPuppet 45
+   0 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_sand_booster.pet"
+   1 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_port.pet"
+   2 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/GS_New T_02.pet"
+   3 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/GS_New T_01.pet"
+   4 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree20.pet"
+   5 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree15.pet"
+   6 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree16.pet"
+   7 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_subtree_10_01.pet"
+   8 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree11.pet"
+   9 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree10.pet"
+  10 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree19.pet"
+  11 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/GS_B_palmtree01.pet"
+  12 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_palmtree02_1.pet"
+  13 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_subtree_05.pet"
+  14 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree13_1.pet"
+  15 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_tree07_01.pet"
+  16 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree07_01.pet"
+  17 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree_03.pet"
+  18 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree8.pet"
+  19 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree02_01.pet"
+  20 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_sand_house.pet"
+  21 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+  22 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_002.pet"
+  23 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_001.pet"
+  24 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_a_plant01_01.pet"
+  25 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tower_02.pet"
+  26 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_ect06-b.pet"
+  27 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_sand_house10.pet"
+  28 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_box_03.pet"
+  29 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_box_01.pet"
+  30 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_Ship_02.pet"
+  31 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_ect11b_02_(edit).pet"
+  32 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_backdroop005.pet"
+  33 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tower.pet"
+  34 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_sand_house10_02.pet"
+  35 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_sand_house_01.pet"
+  36 : "D:/ProjectG_S4/bin/NPC/알렉스/NPC_Alex04.pet"
+  37 : "D:/ProjectG_S4/bin/NPC/알렉스/NPC_Alex02.pet"
+  38 : "D:/ProjectG_S4/bin/NPC/헤럴드/NPC_Herald02.pet"
+  39 : "D:/ProjectG_S4/bin/data/Round14_Green sand/ase/gs_s_flower_04.pet"
+  40 : "D:/ProjectG_S4/bin/data/Round14_Green sand/ase/gs_big_flower.pet"
+  41 : "D:/ProjectG_S4/bin/data/Round14_Green sand/ase/gs_s_flower_02.pet"
+  42 : "D:/ProjectG_S4/bin/data/Round14_Green sand/ase/GS_ppl_01.pet"
+  43 : "D:/ProjectG_S4/bin/data/Round14_Green sand/map/gren_11.pet"
+  44 : "D:/ProjectG_S4/bin/Round14_Green sand/ase/GS_ppl_02.pet"
+
+
+*NumVisGroup 0
+
+*NumNodeList 6
+
+*Node 0
+{
+	*Name	"auto"
+	*Type	0
+	*Num		3
+	*Show	0
+	*Npos	-2.405 0.000 -582.446
+	*Npos	-83.107 0.000 110.844
+	*Npos	-75.147 0.000 557.079
+}
+
+*Node 1
+{
+	*Name	"outline"
+	*Type	0
+	*Num		22
+	*Show	0
+	*Npos	-542.990 0.000 87.929
+	*Npos	-523.967 0.000 -121.328
+	*Npos	-450.251 0.000 -349.609
+	*Npos	-369.402 0.000 -575.511
+	*Npos	-262.396 0.000 -734.831
+	*Npos	-76.918 0.000 -844.216
+	*Npos	198.921 0.000 -806.169
+	*Npos	377.264 0.000 -682.517
+	*Npos	496.160 0.000 -508.929
+	*Npos	579.388 0.000 -309.184
+	*Npos	607.923 0.000 -71.392
+	*Npos	579.388 0.000 225.848
+	*Npos	491.405 0.000 464.245
+	*Npos	360.619 0.000 659.234
+	*Npos	232.211 0.000 816.177
+	*Npos	91.914 0.000 913.671
+	*Npos	-79.296 0.000 958.852
+	*Npos	-249.786 0.000 917.368
+	*Npos	-398.898 0.000 752.344
+	*Npos	-488.651 0.000 575.201
+	*Npos	-533.366 0.000 352.482
+	*Npos	-547.746 0.000 209.807
+}
+
+*Node 2
+{
+	*Name	"ib0"
+	*Type	0
+	*Num		18
+	*Show	0
+	*Npos	-558.871 0.000 635.664
+	*Npos	-437.937 0.000 630.229
+	*Npos	-321.891 0.000 655.385
+	*Npos	-235.203 0.000 715.502
+	*Npos	-144.278 0.000 769.655
+	*Npos	-77.368 0.000 794.163
+	*Npos	-10.371 0.000 791.099
+	*Npos	62.105 0.000 740.454
+	*Npos	115.099 0.000 692.734
+	*Npos	157.222 0.000 624.794
+	*Npos	206.139 0.000 554.136
+	*Npos	279.515 0.000 490.272
+	*Npos	369.197 0.000 464.454
+	*Npos	458.878 0.000 478.042
+	*Npos	544.483 0.000 525.601
+	*Npos	168.093 0.000 1118.042
+	*Npos	-314.285 0.000 1126.195
+	*Npos	-553.436 0.000 729.422
+}
+
+*Node 3
+{
+	*Name	"ib1"
+	*Type	0
+	*Num		11
+	*Show	0
+	*Npos	-622.778 0.000 52.453
+	*Npos	-489.615 0.000 -14.843
+	*Npos	-370.039 0.000 -88.863
+	*Npos	-307.534 0.000 -175.827
+	*Npos	-291.228 0.000 -286.965
+	*Npos	-268.128 0.000 -356.549
+	*Npos	-239.593 0.000 -450.307
+	*Npos	-274.922 0.000 -588.910
+	*Npos	-338.786 0.000 -746.528
+	*Npos	-701.590 0.000 -396.608
+	*Npos	-632.290 0.000 -5.976
+}
+
+*Node 4
+{
+	*Name	"npc_herald01 *vel 1"
+	*Type	0
+	*Num		21
+	*Show	1
+	*Npos	40.705 -75.863 332.920
+	*Npos	30.892 -75.863 340.038
+	*Npos	21.117 -75.863 344.886
+	*Npos	11.629 -75.863 348.701
+	*Npos	6.503 -75.863 350.849
+	*Npos	-0.982 -75.863 349.742
+	*Npos	-11.261 -75.863 342.104
+	*Npos	-16.561 -75.863 328.327
+	*Npos	-13.065 -75.863 311.171
+	*Npos	-0.805 -75.863 301.251
+	*Npos	10.218 -75.863 294.915
+	*Npos	25.379 -75.863 290.424
+	*Npos	47.264 -75.863 282.358
+	*Npos	68.046 -75.863 277.105
+	*Npos	75.850 -75.863 279.778
+	*Npos	76.634 -75.863 290.309
+	*Npos	71.127 -75.863 295.894
+	*Npos	61.472 -75.863 296.891
+	*Npos	52.672 -75.863 304.104
+	*Npos	47.184 -75.863 315.929
+	*Npos	41.825 -75.863 330.215
+}
+
+*Node 5
+{
+	*Name	"npc_herald03 *vel 0"
+	*Type	0
+	*Num		12
+	*Show	1
+	*Npos	90.652 -74.930 359.194
+	*Npos	74.309 -74.930 356.470
+	*Npos	57.059 -74.930 339.674
+	*Npos	55.243 -74.930 328.779
+	*Npos	64.322 -74.930 314.252
+	*Npos	81.573 -74.930 305.173
+	*Npos	113.350 -74.930 306.804
+	*Npos	132.417 -74.930 325.147
+	*Npos	130.147 -74.930 344.667
+	*Npos	123.337 -74.930 357.832
+	*Npos	110.172 -74.930 365.096
+	*Npos	93.830 -74.930 362.372
+}
+
+*NumElement 233
+
+*Element 0
+{
+	*Type  "GAME"
+	*WadFile ""
+	*BspFile ""
+	*Ambient 180 178 178
+	*Diffuse 191 182 182
+	*Ambient2 241 237 237
+	*Shadow 140 138 154
+	*Par 4
+}
+
+*Element 1
+{
+	*Type  "CAMERA"
+	*Class ""
+	*Name  "DefaultCamera"
+	*Pos -185.60 -14.87 190.34
+	*Dest -143.73 -70.85 298.33
+	*Fov 53.50
+	*Bank 0.00
+}
+
+*Element 2
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "시작점"
+	*Pos -2.44 0.00 -582.45
+}
+
+*Element 3
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "끝점1_1"
+	*Pos -71.25 0.00 575.61
+}
+
+*Element 4
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "끝점1_2"
+	*Pos -99.82 0.00 552.17
+}
+
+*Element 5
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "끝점2_3"
+	*Pos -28.94 0.00 566.29
+}
+
+*Element 6
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "끝점1_3"
+	*Pos -48.10 0.00 534.98
+}
+
+*Element 7
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "끝점2_2"
+	*Pos -101.55 0.00 527.98
+}
+
+*Element 8
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "끝점2_1"
+	*Pos -63.80 0.00 509.74
+}
+
+*Element 9
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "그리드"
+	*Pos -70.86 0.00 554.33
+}
+
+*Element 10
+{
+	*Type  "POINT"
+	*Class "WSun"
+	*Name  "태양"
+	*Pos 500.77 1210.82 -399.50
+	*Data ""
+}
+
+*Element 11
+{
+	*Type  "POINT"
+	*Class "WGlobalLight"
+	*Name  ""
+	*Pos 500.33 1217.64 -396.07
+}
+
+*Element 12
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "시작점1"
+	*Pos -2.31 0.00 -611.48
+}
+
+*Element 13
+{
+	*Type  "POINT"
+	*Class "WSecondaryGlobalLight"
+	*Name  ""
+	*Pos -353.86 433.76 -199.57
+	*Data ""
+}
+
+*Element 14
+{
+	*Type  "AREA"
+	*Class "WLake"
+	*Name  "lake"
+	*MinMax -500.45 -89.61 142.11	529.46 -81.82 427.60
+}
+
+*Element 15
+{
+	*Type  "PUPPET"
+	*Class "WVtxObj"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_sand_booster.pet"
+	*Script "60 70"
+	*Pos -291.92 -2.89 -16.29
+	*Rot 0.0 -7.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 1
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 16
+{
+	*Type  "PUPPET"
+	*Class "WVtxObj"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_sand_booster.pet"
+	*Script "40 40"
+	*Pos -230.32 -2.89 303.91
+	*Rot 0.0 -36.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 1
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 17
+{
+	*Type  "PUPPET"
+	*Class "WVtxObj"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_port.pet"
+	*Pos 248.00 -72.86 194.51
+	*Rot 0.0 -80.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 18
+{
+	*Type  "PUPPET"
+	*Class "WVtxObj"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/GS_New T_01.pet"
+	*Pos -54.95 -26.66 -577.82
+	*Rot 0.0 -25.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 19
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/GS_New T_02.pet"
+	*Pos -1.93 -4.60 -658.04
+	*Rot 0.0 90.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 20
+{
+	*Type  "PUPPET"
+	*Class "WVtxObj"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/GS_New T_01.pet"
+	*Pos 49.49 -27.94 -584.32
+	*Rot 0.0 -166.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 21
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree20.pet"
+	*Pos -252.52 -29.68 -720.74
+	*Rot 0.0 27.0 0.0
+	*Scale 1.95
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 22
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree15.pet"
+	*Pos -380.86 -66.86 692.15
+	*Rot 0.0 -163.0 0.0
+	*Scale 3.19
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 23
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree15.pet"
+	*Pos -318.29 -44.85 -423.81
+	*Rot 0.0 -108.0 0.0
+	*Scale 2.73
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 24
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree16.pet"
+	*Pos -375.30 -38.27 -367.54
+	*Rot 0.0 0.0 0.0
+	*Scale 2.11
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 25
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree16.pet"
+	*Pos 126.71 -19.19 -747.42
+	*Rot 0.0 0.0 0.0
+	*Scale 1.32
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 26
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree11.pet"
+	*Pos -394.58 -44.81 -218.60
+	*Rot 0.0 38.0 0.0
+	*Scale 1.66
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 27
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree11.pet"
+	*Pos 170.16 -17.46 -707.31
+	*Rot 0.0 0.0 0.0
+	*Scale 1.57
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 28
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree10.pet"
+	*Pos -183.40 -29.73 -759.82
+	*Rot 0.0 -63.0 0.0
+	*Scale 1.78
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 29
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree19.pet"
+	*Pos -228.88 -63.36 801.02
+	*Rot 0.0 59.0 0.0
+	*Scale 1.53
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 30
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/GS_B_palmtree01.pet"
+	*Pos -33.87 -1.33 -665.04
+	*Rot 0.0 344.0 0.0
+	*Scale 0.86
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 31
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/GS_B_palmtree01.pet"
+	*Pos -50.83 -9.26 -647.45
+	*Rot 0.0 195.0 0.0
+	*Scale 0.62
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 32
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_palmtree02_1.pet"
+	*Pos 46.83 3.56 -737.71
+	*Rot 0.0 -52.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 33
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_subtree_05.pet"
+	*Pos 201.32 -56.50 715.17
+	*Rot 0.0 -52.0 0.0
+	*Scale 2.40
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 34
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree20.pet"
+	*Pos 265.55 -52.79 650.68
+	*Rot 0.0 0.0 0.0
+	*Scale 2.38
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 35
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree11.pet"
+	*Pos 331.76 -54.15 622.65
+	*Rot 0.0 100.0 0.0
+	*Scale 2.49
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 36
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree13_1.pet"
+	*Pos 86.97 -62.68 690.29
+	*Rot 0.0 -155.0 0.0
+	*Scale 0.87
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 37
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree_03.pet"
+	*Pos -135.15 -82.01 285.18
+	*Rot 0.0 90.0 0.0
+	*Scale 0.30
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 38
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree_03.pet"
+	*Pos -117.98 -84.66 290.45
+	*Rot 0.0 0.0 0.0
+	*Scale 0.21
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 39
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_tree07_01.pet"
+	*Pos -313.38 -45.03 -512.90
+	*Rot 0.0 154.0 0.0
+	*Scale 0.89
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 40
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree11.pet"
+	*Pos -365.68 -43.61 -458.78
+	*Rot 0.0 65.0 0.0
+	*Scale 1.61
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 41
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree8.pet"
+	*Pos -196.81 -17.08 -664.02
+	*Rot 0.0 -36.0 0.0
+	*Scale 1.89
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 42
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree8.pet"
+	*Pos -211.53 -12.83 -687.18
+	*Rot 0.0 -36.0 0.0
+	*Scale 2.39
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 43
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_tree07_01.pet"
+	*Pos 204.78 -55.05 619.58
+	*Rot 0.0 0.0 0.0
+	*Scale 0.86
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 44
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/GS_B_palmtree01.pet"
+	*Pos -424.01 -41.31 482.04
+	*Rot 0.0 -62.0 0.0
+	*Scale 0.86
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 45
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree_03.pet"
+	*Pos -291.40 -78.35 376.54
+	*Rot 0.0 270.0 0.0
+	*Scale 0.39
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 46
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree13_1.pet"
+	*Pos 174.03 -73.37 172.47
+	*Rot 0.0 40.0 0.0
+	*Scale 0.79
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 47
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree13_1.pet"
+	*Pos 158.11 -73.79 180.30
+	*Rot 0.0 -132.0 0.0
+	*Scale 0.59
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 48
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_palmtree02_1.pet"
+	*Pos 307.32 -48.63 225.93
+	*Rot 0.0 180.0 0.0
+	*Scale 1.16
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 49
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree02_01.pet"
+	*Pos 44.82 -89.84 373.93
+	*Rot 0.0 0.0 0.0
+	*Scale 0.84
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 50
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree02_01.pet"
+	*Pos 49.27 -91.79 368.48
+	*Rot 0.0 -28.0 0.0
+	*Scale 0.54
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 51
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree02_01.pet"
+	*Pos 32.69 -91.77 366.34
+	*Rot 0.0 128.0 0.0
+	*Scale 0.75
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 52
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_tree07_01.pet"
+	*Pos -373.64 -71.88 643.47
+	*Rot 0.0 90.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 53
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree16.pet"
+	*Pos -417.94 -72.72 600.52
+	*Rot 0.0 0.0 0.0
+	*Scale 1.45
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 54
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_a_plant01_01.pet"
+	*Pos -472.72 -55.33 33.72
+	*Rot 0.0 0.0 0.0
+	*Scale 0.84
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 55
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_a_plant01_01.pet"
+	*Pos -357.00 -67.50 129.42
+	*Rot 0.0 0.0 0.0
+	*Scale 0.76
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 56
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_a_plant01_01.pet"
+	*Pos 195.11 -22.28 -614.61
+	*Rot 0.0 68.0 0.0
+	*Scale 0.70
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 57
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos -234.50 -28.82 -628.30
+	*Rot 0.0 -156.0 0.0
+	*Scale 0.56
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 58
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_001.pet"
+	*Pos -178.56 -27.67 -744.00
+	*Rot 0.0 -83.0 0.0
+	*Scale 0.67
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 59
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree15.pet"
+	*Pos 362.20 -72.51 179.24
+	*Rot 0.0 0.0 0.0
+	*Scale 2.14
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 60
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree07_01.pet"
+	*Pos 248.79 -72.60 176.32
+	*Rot 0.0 -52.0 0.0
+	*Scale 0.63
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 61
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree07_01.pet"
+	*Pos 258.66 -72.63 172.98
+	*Rot 0.0 0.0 0.0
+	*Scale 0.44
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 62
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_subtree_10_01.pet"
+	*Pos 60.09 -76.39 201.07
+	*Rot 0.0 0.0 0.0
+	*Scale 1.47
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 63
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_001.pet"
+	*Pos -207.58 -65.89 714.82
+	*Rot 0.0 26.0 0.0
+	*Scale 0.49
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 64
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos 192.25 -57.89 699.07
+	*Rot 0.0 -52.0 0.0
+	*Scale 0.58
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 65
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_002.pet"
+	*Pos -172.51 -62.95 795.24
+	*Rot 0.0 0.0 0.0
+	*Scale 1.12
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 66
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_002.pet"
+	*Pos -326.89 -71.37 643.86
+	*Rot 0.0 22.0 0.0
+	*Scale 0.83
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 67
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_002.pet"
+	*Pos -283.36 -74.06 461.23
+	*Rot 0.0 -76.0 0.0
+	*Scale 0.91
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 68
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree8.pet"
+	*Pos -2.12 -37.73 784.08
+	*Rot 0.0 0.0 0.0
+	*Scale 2.58
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 69
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree8.pet"
+	*Pos -26.58 -48.05 770.42
+	*Rot 0.0 0.0 0.0
+	*Scale 2.09
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 70
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos -260.08 -45.02 -387.39
+	*Rot 0.0 90.0 0.0
+	*Scale 0.84
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 71
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree16.pet"
+	*Pos -310.78 -66.48 675.73
+	*Rot 0.0 0.0 0.0
+	*Scale 0.69
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 72
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_tree07_01.pet"
+	*Pos -285.73 -67.31 716.53
+	*Rot 0.0 -40.0 0.0
+	*Scale 0.97
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 73
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/GS_B_palmtree01.pet"
+	*Pos 57.26 -56.25 222.41
+	*Rot 0.0 223.0 0.0
+	*Scale 0.82
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 74
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/GS_B_palmtree01.pet"
+	*Pos 81.04 -61.02 202.77
+	*Rot 0.0 56.0 0.0
+	*Scale 0.61
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 75
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree07_01.pet"
+	*Pos 120.19 -75.27 195.53
+	*Rot 0.0 0.0 0.0
+	*Scale 0.87
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 76
+{
+	*Type  "PUPPET"
+	*Class "WVtxObj"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tower_02.pet"
+	*Pos 420.81 -73.07 165.68
+	*Rot 0.0 -69.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 77
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree20.pet"
+	*Pos 569.48 -31.36 -170.89
+	*Rot 0.0 -175.0 0.0
+	*Scale 1.16
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 78
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree11.pet"
+	*Pos 508.18 -48.37 -100.25
+	*Rot 0.0 -169.0 0.0
+	*Scale 1.60
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 79
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree16.pet"
+	*Pos 571.22 -48.41 -70.69
+	*Rot 0.0 -169.0 0.0
+	*Scale 1.21
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 80
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_tree07_01.pet"
+	*Pos 517.64 -56.88 -32.34
+	*Rot 0.0 155.0 0.0
+	*Scale 0.78
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 81
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree8.pet"
+	*Pos 453.80 -61.54 161.89
+	*Rot 0.0 -180.0 0.0
+	*Scale 1.55
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 82
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_palmtree02_1.pet"
+	*Pos 453.36 -38.04 109.78
+	*Rot 0.0 180.0 0.0
+	*Scale 1.46
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 83
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_palmtree02_1.pet"
+	*Pos 492.27 -46.73 129.08
+	*Rot 0.0 102.0 0.0
+	*Scale 1.07
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 84
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree8.pet"
+	*Pos 466.65 -57.58 149.96
+	*Rot 0.0 -180.0 0.0
+	*Scale 2.05
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 85
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_ect06-b.pet"
+	*Pos 335.10 -72.28 152.66
+	*Rot 0.0 0.0 0.0
+	*Scale 1.36
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 86
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_ect06-b.pet"
+	*Pos 361.08 -72.54 156.14
+	*Rot 0.0 0.0 0.0
+	*Scale 1.67
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 87
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_ect06-b.pet"
+	*Pos 345.86 -72.26 164.12
+	*Rot 0.0 0.0 0.0
+	*Scale 1.24
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 88
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/GS_B_palmtree01.pet"
+	*Pos 498.69 -19.15 -263.72
+	*Rot 0.0 199.0 0.0
+	*Scale 0.51
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 89
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_ect06-b.pet"
+	*Pos 103.20 -76.14 151.85
+	*Rot 0.0 0.0 0.0
+	*Scale 1.22
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 90
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_ect06-b.pet"
+	*Pos 131.47 -75.36 169.05
+	*Rot 0.0 0.0 0.0
+	*Scale 1.15
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 91
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_ect06-b.pet"
+	*Pos 119.77 -75.62 178.25
+	*Rot 0.0 0.0 0.0
+	*Scale 1.10
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 92
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_ect06-b.pet"
+	*Pos -272.71 -43.47 -417.12
+	*Rot 0.0 0.0 0.0
+	*Scale 1.39
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 93
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_ect06-b.pet"
+	*Pos -230.10 -40.58 -427.62
+	*Rot 0.0 0.0 0.0
+	*Scale 1.42
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 94
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_ect06-b.pet"
+	*Pos -258.73 -43.00 -471.06
+	*Rot 0.0 0.0 0.0
+	*Scale 1.68
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 95
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree13_1.pet"
+	*Pos -354.88 -59.41 -85.99
+	*Rot 0.0 -340.0 0.0
+	*Scale 0.86
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 96
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree07_01.pet"
+	*Pos -406.41 -59.30 73.71
+	*Rot 0.0 -57.0 0.0
+	*Scale 0.87
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 97
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/GS_B_palmtree01.pet"
+	*Pos 394.46 -45.15 196.23
+	*Rot 0.0 219.0 0.0
+	*Scale 1.11
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 98
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/GS_B_palmtree01.pet"
+	*Pos 402.02 -51.46 173.55
+	*Rot 0.0 319.0 0.0
+	*Scale 0.85
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 99
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_001.pet"
+	*Pos 396.39 -71.73 163.02
+	*Rot 0.0 -55.0 0.0
+	*Scale 0.68
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 100
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos 389.65 -72.94 184.51
+	*Rot 0.0 80.0 0.0
+	*Scale 0.64
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 101
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos 439.38 -70.54 119.72
+	*Rot 0.0 -74.0 0.0
+	*Scale 0.75
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 102
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos 417.37 -72.41 145.09
+	*Rot 0.0 90.0 0.0
+	*Scale 0.51
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 103
+{
+	*Type  "PUPPET"
+	*Class "WVtxObj"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_sand_house10.pet"
+	*Pos -234.86 -65.42 717.60
+	*Rot 0.0 45.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 104
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree15.pet"
+	*Pos 310.57 -41.58 526.81
+	*Rot 0.0 -74.0 0.0
+	*Scale 3.06
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 105
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_subtree_10_01.pet"
+	*Pos 348.19 -37.99 494.40
+	*Rot 0.0 -77.0 0.0
+	*Scale 2.02
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 106
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_subtree_10_01.pet"
+	*Pos 209.08 -56.02 560.59
+	*Rot 0.0 -90.0 0.0
+	*Scale 1.70
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 107
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos 250.97 -58.13 474.50
+	*Rot 0.0 -187.0 0.0
+	*Scale 0.94
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 108
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree20.pet"
+	*Pos 365.55 -26.50 -522.98
+	*Rot 0.0 0.0 0.0
+	*Scale 2.82
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 109
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_001.pet"
+	*Pos -228.56 -31.01 -671.50
+	*Rot 0.0 117.0 0.0
+	*Scale 0.07
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 110
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos 337.14 -26.42 -539.19
+	*Rot 0.0 11.0 0.0
+	*Scale 0.93
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 111
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos 153.99 -18.40 -704.69
+	*Rot 0.0 146.0 0.0
+	*Scale 0.63
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 112
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree07_01.pet"
+	*Pos 67.68 -19.28 -740.18
+	*Rot 0.0 70.0 0.0
+	*Scale 0.78
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 113
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_subtree_10_01.pet"
+	*Pos 56.34 -19.18 -732.53
+	*Rot 0.0 104.0 0.0
+	*Scale 1.58
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 114
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos -31.67 -24.49 -662.25
+	*Rot 0.0 260.0 0.0
+	*Scale 0.64
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 115
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos -407.10 -65.62 19.99
+	*Rot 0.0 -270.0 0.0
+	*Scale 1.17
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 116
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_subtree_10_01.pet"
+	*Pos -369.73 -49.22 -187.64
+	*Rot 0.0 0.0 0.0
+	*Scale 2.08
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 117
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/GS_B_palmtree01.pet"
+	*Pos -376.33 -21.34 -114.41
+	*Rot 0.0 90.0 0.0
+	*Scale 1.20
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 118
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_palmtree02_1.pet"
+	*Pos -432.46 -27.53 -79.79
+	*Rot 0.0 -82.0 0.0
+	*Scale 1.39
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 119
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/GS_B_palmtree01.pet"
+	*Pos 415.71 -17.69 381.95
+	*Rot 0.0 -23.0 0.0
+	*Scale 1.65
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 120
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/GS_B_palmtree01.pet"
+	*Pos 429.35 -17.61 437.05
+	*Rot 0.0 -180.0 0.0
+	*Scale 1.25
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 121
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_palmtree02_1.pet"
+	*Pos 392.00 -30.10 408.43
+	*Rot 0.0 180.0 0.0
+	*Scale 1.13
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 122
+{
+	*Type  "PUPPET"
+	*Class "WVtxObj"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_box_03.pet"
+	*Pos -13.41 -18.05 -569.48
+	*Rot 0.0 31.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 123
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_box_01.pet"
+	*Pos 6.72 -18.16 -569.29
+	*Rot 0.0 -26.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 124
+{
+	*Type  "PUPPET"
+	*Class "WVtxObj"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_Ship_02.pet"
+	*Pos 249.20 -87.30 285.47
+	*Rot 0.0 -82.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 125
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree20.pet"
+	*Pos -359.81 -38.93 -274.10
+	*Rot 0.0 4.0 0.0
+	*Scale 1.51
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 126
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree13_1.pet"
+	*Pos -225.36 -31.81 -652.16
+	*Rot 0.0 -81.0 0.0
+	*Scale 1.24
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 127
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree07_01.pet"
+	*Pos -273.25 -23.46 -645.38
+	*Rot 0.0 248.0 0.0
+	*Scale 0.90
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 128
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree16.pet"
+	*Pos 357.54 -23.40 -456.02
+	*Rot 0.0 -148.0 0.0
+	*Scale 0.94
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 129
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_a_plant01_01.pet"
+	*Pos 71.95 -24.54 -659.45
+	*Rot 0.0 128.0 0.0
+	*Scale 0.76
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 130
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_ect11b_02_(edit).pet"
+	*Pos 498.40 -35.61 -299.86
+	*Rot 0.0 0.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 131
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_backdroop005.pet"
+	*Pos 488.80 -31.30 -288.09
+	*Rot 0.0 0.0 0.0
+	*Scale 0.50
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 132
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos 479.90 -39.84 -286.42
+	*Rot 0.0 193.0 0.0
+	*Scale 0.89
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 133
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree13_1.pet"
+	*Pos -440.98 -52.88 101.04
+	*Rot 0.0 -257.0 0.0
+	*Scale 1.15
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 134
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree8.pet"
+	*Pos -226.98 -59.51 285.66
+	*Rot 0.0 -69.0 0.0
+	*Scale 2.16
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 135
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree13_1.pet"
+	*Pos -295.40 -75.09 268.26
+	*Rot 0.0 -14.0 0.0
+	*Scale 0.83
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 136
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree8.pet"
+	*Pos -256.96 -61.74 300.15
+	*Rot 0.0 -69.0 0.0
+	*Scale 1.56
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 137
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos -202.32 -75.09 307.30
+	*Rot 0.0 115.0 0.0
+	*Scale 0.44
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 138
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree11.pet"
+	*Pos -313.80 -76.53 266.77
+	*Rot 0.0 -148.0 0.0
+	*Scale 1.17
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 139
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_backdroop005.pet"
+	*Pos -247.43 -67.08 302.44
+	*Rot 0.0 -199.0 0.0
+	*Scale 0.40
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 140
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos -239.54 -74.17 286.15
+	*Rot 0.0 107.0 0.0
+	*Scale 0.59
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 141
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_ect11b_02_(edit).pet"
+	*Pos -249.94 -70.74 290.21
+	*Rot 0.0 -82.0 0.0
+	*Scale 0.67
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 142
+{
+	*Type  "PUPPET"
+	*Class "WVtxObj"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tower.pet"
+	*Pos 89.63 -41.99 -476.70
+	*Rot 0.0 -67.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 143
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos 85.28 -39.46 -495.82
+	*Rot 0.0 0.0 0.0
+	*Scale 0.63
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 144
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_001.pet"
+	*Pos 71.25 -42.08 -466.46
+	*Rot 0.0 -183.0 0.0
+	*Scale 0.67
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 145
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_sand_house10_02.pet"
+	*Pos -192.11 -45.91 781.50
+	*Rot 0.0 0.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 146
+{
+	*Type  "AREA"
+	*Class "WNPC"
+	*Name  "*type 21 *pet NPC_Alex03.pet *num 2 *vel 4"
+	*MinMax -144.22 -34.30 -498.75	-5.90 -18.21 -364.67
+}
+
+*Element 147
+{
+	*Type  "AREA"
+	*Class "WNPC"
+	*Name  "*type 21 *pet NPC_Alex01.pet *num 1 *vel 4"
+	*MinMax -74.07 -28.97 -522.58	22.39 -10.94 -426.38
+}
+
+*Element 148
+{
+	*Type  "PUPPET"
+	*Class "WVtxObj"
+	*Filename "D:/ProjectG_S4/bin/NPC/알렉스/NPC_Alex04.pet"
+	*Pos 86.66 -11.53 -482.91
+	*Rot 0.0 -24.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 149
+{
+	*Type  "PUPPET"
+	*Class "WVtxObj"
+	*Filename "D:/ProjectG_S4/bin/NPC/헤럴드/NPC_Herald02.pet"
+	*Pos -215.88 -75.43 282.73
+	*Rot 0.0 -53.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 150
+{
+	*Type  "PUPPET"
+	*Class "WVtxObj"
+	*Filename "D:/ProjectG_S4/bin/NPC/헤럴드/NPC_Herald02.pet"
+	*Pos -247.88 -73.32 280.53
+	*Rot 0.0 50.0 -8.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 151
+{
+	*Type  "AREA"
+	*Class "WNPC"
+	*Name  "*type 22 *pet NPC_Zini.pet *num1"
+	*MinMax -224.13 -31.78 592.88	-66.17 3.44 756.83
+}
+
+*Element 152
+{
+	*Type  "AREA"
+	*Class "WNPC"
+	*Name  "*type 22 *pet NPC_Shiro.pet *num2"
+	*MinMax -141.50 -34.70 643.22	-18.14 -4.25 734.54
+}
+
+*Element 153
+{
+	*Type  "PUPPET"
+	*Class "WVtxObj"
+	*Filename "D:/ProjectG_S4/bin/NPC/알렉스/NPC_Alex02.pet"
+	*Pos -204.07 -45.21 725.45
+	*Rot 0.0 50.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 154
+{
+	*Type  "AREA"
+	*Class "WNPC"
+	*Name  "*type 21 *pet NPC_Alex03.pet *num1 *vel 1"
+	*MinMax -4.52 -59.28 656.16	32.99 -54.48 695.07
+}
+
+*Element 155
+{
+	*Type  "AREA"
+	*Class "WNPC"
+	*Name  "*type 21 *pet NPC_Alex01.pet *num1 *vel 1"
+	*MinMax -36.82 -59.28 655.31	-8.09 -56.14 679.81
+}
+
+*Element 156
+{
+	*Type  "PUPPET"
+	*Class "WVtxObj"
+	*Filename "D:/ProjectG_S4/bin/NPC/알렉스/NPC_Alex04.pet"
+	*Pos 266.13 -20.64 215.85
+	*Rot 0.0 21.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 157
+{
+	*Type  "PUPPET"
+	*Class "WVtxObj"
+	*Filename "D:/ProjectG_S4/bin/NPC/알렉스/NPC_Alex02.pet"
+	*Pos 259.52 -18.85 214.81
+	*Rot 0.0 21.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 158
+{
+	*Type  "PUPPET"
+	*Class "WVtxObj"
+	*Filename "D:/ProjectG_S4/bin/NPC/알렉스/NPC_Alex02.pet"
+	*Pos -25.90 -16.35 -558.16
+	*Rot 0.0 57.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 159
+{
+	*Type  "PUPPET"
+	*Class "WVtxObj"
+	*Filename "D:/ProjectG_S4/bin/NPC/헤럴드/NPC_Herald02.pet"
+	*Pos 384.47 -72.11 146.33
+	*Rot 0.0 -63.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 160
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree8.pet"
+	*Pos 499.53 -30.29 -325.06
+	*Rot 0.0 0.0 0.0
+	*Scale 1.46
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 161
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree07_01.pet"
+	*Pos 475.62 -38.56 -266.17
+	*Rot 0.0 -26.0 0.0
+	*Scale 0.73
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 162
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos 501.34 -32.44 -256.15
+	*Rot 0.0 185.0 0.0
+	*Scale 0.82
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 163
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_002.pet"
+	*Pos 200.31 -39.13 -503.89
+	*Rot 0.0 50.0 0.0
+	*Scale 1.03
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 164
+{
+	*Type  "AREA"
+	*Class "WEventArea"
+	*Name  ""
+	*MinMax -181.94 -90.26 289.70	-54.97 -71.98 357.26
+}
+
+*Element 165
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos -154.23 -67.31 663.21
+	*Rot 0.0 117.0 0.0
+	*Scale 0.69
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 166
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos 432.66 -45.60 -362.07
+	*Rot 0.0 82.0 0.0
+	*Scale 0.89
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 167
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_a_plant01_01.pet"
+	*Pos -470.02 -67.86 334.58
+	*Rot 0.0 0.0 0.0
+	*Scale 0.81
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 168
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_ect06-b.pet"
+	*Pos -265.56 -71.79 510.35
+	*Rot 0.0 -30.0 0.0
+	*Scale 1.56
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 169
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_ect06-b.pet"
+	*Pos -243.32 -72.79 481.84
+	*Rot 0.0 -30.0 0.0
+	*Scale 1.29
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 170
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_ect06-b.pet"
+	*Pos -233.82 -73.82 507.66
+	*Rot 0.0 -30.0 0.0
+	*Scale 1.56
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 171
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree07_01.pet"
+	*Pos -448.26 -67.76 460.91
+	*Rot 0.0 -315.0 0.0
+	*Scale 0.91
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 172
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_subtree_10_01.pet"
+	*Pos -404.35 -62.42 514.05
+	*Rot 0.0 -27.0 0.0
+	*Scale 1.92
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 173
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos -371.77 -75.18 371.58
+	*Rot 0.0 76.0 0.0
+	*Scale 0.75
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 174
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree07_01.pet"
+	*Pos -216.98 -73.37 308.38
+	*Rot 0.0 -155.0 0.0
+	*Scale 0.72
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 175
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_002.pet"
+	*Pos -292.29 -75.37 285.94
+	*Rot 0.0 13.0 0.0
+	*Scale 1.04
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 176
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree20.pet"
+	*Pos 149.62 -73.90 197.30
+	*Rot 0.0 0.0 0.0
+	*Scale 1.45
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 177
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree16.pet"
+	*Pos 107.93 -76.37 218.38
+	*Rot 0.0 0.0 0.0
+	*Scale 0.77
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 178
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree11.pet"
+	*Pos 184.00 -73.46 191.05
+	*Rot 0.0 100.0 0.0
+	*Scale 1.27
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 179
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree8.pet"
+	*Pos 194.03 -62.01 165.87
+	*Rot 0.0 -180.0 0.0
+	*Scale 1.55
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 180
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree8.pet"
+	*Pos 98.08 -65.85 180.97
+	*Rot 0.0 0.0 0.0
+	*Scale 1.39
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 181
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree8.pet"
+	*Pos 323.28 -58.53 218.99
+	*Rot 0.0 -180.0 0.0
+	*Scale 1.92
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 182
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree8.pet"
+	*Pos 341.41 -56.39 234.98
+	*Rot 0.0 -249.0 0.0
+	*Scale 2.39
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 183
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos 332.56 -72.28 205.33
+	*Rot 0.0 90.0 0.0
+	*Scale 0.84
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 184
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree19.pet"
+	*Pos 17.38 -57.28 739.08
+	*Rot 0.0 36.0 0.0
+	*Scale 1.57
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 185
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree16.pet"
+	*Pos 48.81 -62.44 691.77
+	*Rot 0.0 0.0 0.0
+	*Scale 0.66
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 186
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_a_plant01_01.pet"
+	*Pos -111.85 -64.29 794.67
+	*Rot 0.0 0.0 0.0
+	*Scale 0.94
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 187
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree11.pet"
+	*Pos -69.48 -64.58 748.89
+	*Rot 0.0 134.0 0.0
+	*Scale 1.31
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 188
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree19.pet"
+	*Pos -423.02 -46.01 -149.93
+	*Rot 0.0 130.0 0.0
+	*Scale 2.10
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 189
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree8.pet"
+	*Pos -303.36 -29.34 -342.59
+	*Rot 0.0 -55.0 0.0
+	*Scale 2.42
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 190
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree16.pet"
+	*Pos -480.79 -56.15 -182.06
+	*Rot 0.0 -142.0 0.0
+	*Scale 1.69
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 191
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree8.pet"
+	*Pos -319.68 -32.97 -288.58
+	*Rot 0.0 -55.0 0.0
+	*Scale 1.85
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 192
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_tree07_01.pet"
+	*Pos -344.14 -50.45 -216.55
+	*Rot 0.0 134.0 0.0
+	*Scale 0.83
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 193
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree8.pet"
+	*Pos 240.45 -58.67 376.40
+	*Rot 0.0 0.0 0.0
+	*Scale 2.26
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 194
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree8.pet"
+	*Pos 327.32 -43.74 384.02
+	*Rot 0.0 -123.0 0.0
+	*Scale 2.61
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 195
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos 242.85 -70.82 388.66
+	*Rot 0.0 -180.0 0.0
+	*Scale 0.58
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 196
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_001.pet"
+	*Pos 200.62 -74.55 390.89
+	*Rot 0.0 0.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 197
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_subtree_10_01.pet"
+	*Pos 121.58 -73.33 415.62
+	*Rot 0.0 -90.0 0.0
+	*Scale 1.70
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 198
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_subtree_05.pet"
+	*Pos 302.89 -70.04 368.61
+	*Rot 0.0 -52.0 0.0
+	*Scale 2.40
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 199
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_a_plant01_01.pet"
+	*Pos 173.63 -70.91 455.90
+	*Rot 0.0 0.0 0.0
+	*Scale 0.90
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 200
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree20.pet"
+	*Pos -277.31 -74.41 284.38
+	*Rot 0.0 90.0 0.0
+	*Scale 1.23
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 201
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree16.pet"
+	*Pos -195.99 -75.31 317.49
+	*Rot 0.0 0.0 0.0
+	*Scale 0.63
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 202
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree8.pet"
+	*Pos 62.97 -54.26 639.66
+	*Rot 0.0 148.0 0.0
+	*Scale 1.90
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 203
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos 149.63 -60.87 673.48
+	*Rot 0.0 -156.0 0.0
+	*Scale 0.77
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 204
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_002.pet"
+	*Pos 109.28 -60.98 713.64
+	*Rot 0.0 -61.0 0.0
+	*Scale 1.46
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 205
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos 93.25 -73.27 414.41
+	*Rot 0.0 -74.0 0.0
+	*Scale 0.77
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 206
+{
+	*Type  "PUPPET"
+	*Class "WVtxObj"
+	*Filename "D:/ProjectG_S4/bin/data/Round14_Green sand/ase/gs_big_flower.pet"
+	*Pos -261.67 -74.54 270.36
+	*Rot 0.0 202.0 0.0
+	*Scale 0.52
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 207
+{
+	*Type  "PUPPET"
+	*Class "WVtxObj"
+	*Filename "D:/ProjectG_S4/bin/data/Round14_Green sand/ase/gs_big_flower.pet"
+	*Pos 79.40 -65.99 661.45
+	*Rot 0.0 255.0 0.0
+	*Scale 0.52
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 208
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos 77.68 -67.84 619.97
+	*Rot 0.0 -101.0 0.0
+	*Scale 0.42
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 209
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/data/Round14_Green sand/ase/gs_s_flower_04.pet"
+	*Pos 244.15 -72.77 164.22
+	*Rot 0.0 0.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 210
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/data/Round14_Green sand/ase/gs_s_flower_02.pet"
+	*Pos 301.82 -72.28 190.02
+	*Rot 0.0 0.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 211
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/data/Round14_Green sand/ase/gs_s_flower_04.pet"
+	*Pos -125.65 -45.04 -422.88
+	*Rot 0.0 0.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 212
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/data/Round14_Green sand/ase/gs_s_flower_02.pet"
+	*Pos -309.24 -46.21 -319.58
+	*Rot 0.0 0.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 213
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/data/Round14_Green sand/ase/gs_s_flower_04.pet"
+	*Pos -170.13 -26.61 -705.58
+	*Rot 0.0 0.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 214
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/data/Round14_Green sand/ase/gs_s_flower_02.pet"
+	*Pos 107.17 -24.83 -628.34
+	*Rot 0.0 54.0 0.0
+	*Scale 1.27
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 215
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/data/Round14_Green sand/ase/gs_s_flower_04.pet"
+	*Pos 331.23 -27.22 -473.49
+	*Rot 0.0 0.0 0.0
+	*Scale 1.15
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 216
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/data/Round14_Green sand/ase/gs_s_flower_02.pet"
+	*Pos 512.92 -47.83 -119.46
+	*Rot 0.0 90.0 0.0
+	*Scale 1.27
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 217
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/data/Round14_Green sand/ase/gs_s_flower_02.pet"
+	*Pos 481.09 -43.12 -311.61
+	*Rot 0.0 108.0 0.0
+	*Scale 1.27
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 218
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/data/Round14_Green sand/ase/gs_s_flower_04.pet"
+	*Pos -436.13 -74.14 389.81
+	*Rot 0.0 0.0 0.0
+	*Scale 1.24
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 219
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/data/Round14_Green sand/ase/gs_s_flower_02.pet"
+	*Pos -243.07 -66.17 695.51
+	*Rot 0.0 0.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 220
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/data/Round14_Green sand/ase/gs_s_flower_02.pet"
+	*Pos -186.49 -65.15 759.30
+	*Rot 0.0 11.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 221
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/data/Round14_Green sand/ase/gs_s_flower_04.pet"
+	*Pos -44.89 -64.44 710.24
+	*Rot 0.0 0.0 0.0
+	*Scale 1.24
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 222
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/data/Round14_Green sand/ase/gs_s_flower_04.pet"
+	*Pos 15.35 -64.24 693.29
+	*Rot 0.0 0.0 0.0
+	*Scale 1.24
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 223
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/data/Round14_Green sand/ase/gs_s_flower_04.pet"
+	*Pos 147.97 -74.72 169.26
+	*Rot 0.0 -20.0 0.0
+	*Scale 1.10
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 224
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/data/Round14_Green sand/ase/gs_s_flower_04.pet"
+	*Pos -242.77 -41.72 -468.13
+	*Rot 0.0 0.0 0.0
+	*Scale 1.33
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 225
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos -97.31 -65.59 761.59
+	*Rot 0.0 90.0 0.0
+	*Scale 0.61
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 226
+{
+	*Type  "AREA"
+	*Class "WEventArea"
+	*Name  "*extra"
+	*MinMax -134.29 0.00 398.36	9.95 4.34 467.77
+}
+
+*Element 227
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "대화방시작"
+	*Pos 117.30 0.00 108.70
+}
+
+*Element 228
+{
+	*Type  "PUPPET"
+	*Class "WGround"
+	*Filename "D:/ProjectG_S4/bin/data/Round14_Green sand/map/gren_11.pet"
+	*Pos -13.96 -0.78 -0.11
+	*Rot 0.0 0.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 229
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree16.pet"
+	*Pos -38.51 -62.25 817.88
+	*Rot 0.0 6.0 0.0
+	*Scale 0.94
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 230
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree20.pet"
+	*Pos 48.90 -56.87 729.26
+	*Rot 0.0 -7.0 0.0
+	*Scale 1.52
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 231
+{
+	*Type  "PUPPET"
+	*Class "WVtxObj"
+	*Filename "D:/ProjectG_S4/bin/NPC/알렉스/NPC_Alex02.pet"
+	*Pos 219.23 -53.68 137.41
+	*Rot 0.0 -43.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 232
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/ase/GS_ppl_02.pet"
+	*Pos -92.58 -48.18 769.90
+	*Rot 0.0 -10.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+#End of WangED project file.

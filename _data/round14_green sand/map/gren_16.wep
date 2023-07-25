@@ -1,0 +1,3452 @@
+#WEP V1.20 for Pangya
+#This is auto generated project file which is made by WangED. Don't edit this file.
+
+
+*RootDir "D:/ProjectG_S4/bin/"
+
+*NumPuppet 35
+   0 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/GS_obj_T.pet"
+   1 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree19.pet"
+   2 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree15.pet"
+   3 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree20.pet"
+   4 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree11.pet"
+   5 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree16.pet"
+   6 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/GS_New T_01.pet"
+   7 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/GS_New T_02.pet"
+   8 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_port.pet"
+   9 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_sand_house10_02.pet"
+  10 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_sand_house.pet"
+  11 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_sand_house10.pet"
+  12 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_subtree_05.pet"
+  13 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree8.pet"
+  14 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_B_palmtree01_1.pet"
+  15 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_tree07_01.pet"
+  16 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree07_01.pet"
+  17 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_palmtree02_1.pet"
+  18 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_subtree_10_01.pet"
+  19 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_a_plant01_01.pet"
+  20 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_ect06-b.pet"
+  21 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+  22 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_001.pet"
+  23 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_002.pet"
+  24 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_box_01.pet"
+  25 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_sand_booster_02.pet"
+  26 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_backdroop005.pet"
+  27 : "D:/ProjectG_S4/bin/NPC/알렉스/NPC_Alex02.pet"
+  28 : "D:/ProjectG_S4/bin/NPC/알렉스/NPC_Alex04.pet"
+  29 : "D:/ProjectG_S4/bin/NPC/헤럴드/NPC_Herald02.pet"
+  30 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_s_flower_04.pet"
+  31 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_s_flower_02.pet"
+  32 : "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_Ship_02.pet"
+  33 : "D:/ProjectG_S4/bin/data/Round14_Green sand/map/gren_16.pet"
+  34 : "D:/ProjectG_S4/bin/Round14_Green sand/ase/GS_ppl_01.pet"
+
+
+*NumVisGroup 0
+
+*NumNodeList 13
+
+*Node 0
+{
+	*Name	"outline"
+	*Type	0
+	*Num		26
+	*Show	0
+	*Npos	156.223 0.000 -918.907
+	*Npos	346.658 0.000 -897.779
+	*Npos	513.919 0.000 -833.091
+	*Npos	657.385 0.000 -746.736
+	*Npos	768.212 0.000 -601.280
+	*Npos	824.913 0.000 -411.778
+	*Npos	844.885 0.000 -216.167
+	*Npos	850.140 0.000 -8.571
+	*Npos	827.578 0.000 199.711
+	*Npos	770.984 0.000 377.836
+	*Npos	648.346 0.000 479.278
+	*Npos	458.907 0.000 526.213
+	*Npos	256.592 0.000 579.197
+	*Npos	75.265 0.000 656.417
+	*Npos	-134.417 0.000 725.304
+	*Npos	-339.030 0.000 692.280
+	*Npos	-465.632 0.000 515.315
+	*Npos	-507.398 0.000 344.506
+	*Npos	-516.504 0.000 157.706
+	*Npos	-511.886 0.000 -5.584
+	*Npos	-513.202 0.000 -209.181
+	*Npos	-492.320 0.000 -381.727
+	*Npos	-431.039 0.000 -531.456
+	*Npos	-307.595 0.000 -665.648
+	*Npos	-163.019 0.000 -781.879
+	*Npos	-1.385 0.000 -893.138
+}
+
+*Node 1
+{
+	*Name	"auto"
+	*Type	0
+	*Num		3
+	*Show	0
+	*Npos	160.475 59.618 -668.242
+	*Npos	555.992 59.618 -31.784
+	*Npos	-17.396 59.618 182.986
+}
+
+*Node 2
+{
+	*Name	"ib1"
+	*Type	0
+	*Num		11
+	*Show	1
+	*Npos	468.398 0.000 -415.517
+	*Npos	499.168 0.000 -424.673
+	*Npos	530.175 0.000 -420.934
+	*Npos	554.814 0.000 -403.413
+	*Npos	571.792 0.000 -381.675
+	*Npos	567.131 0.000 -356.221
+	*Npos	536.870 0.000 -342.067
+	*Npos	507.605 0.000 -342.257
+	*Npos	479.701 0.000 -355.858
+	*Npos	457.536 0.000 -374.768
+	*Npos	456.493 0.000 -403.183
+}
+
+*Node 3
+{
+	*Name	"ib2"
+	*Type	0
+	*Num		13
+	*Show	1
+	*Npos	233.651 0.000 -229.294
+	*Npos	195.490 0.000 -238.718
+	*Npos	160.938 0.000 -239.352
+	*Npos	140.457 0.000 -216.854
+	*Npos	152.459 0.000 -191.245
+	*Npos	173.446 0.000 -182.289
+	*Npos	203.614 0.000 -167.202
+	*Npos	238.774 0.000 -157.902
+	*Npos	270.757 0.000 -149.231
+	*Npos	311.368 0.000 -153.858
+	*Npos	323.394 0.000 -178.803
+	*Npos	304.374 0.000 -197.479
+	*Npos	264.775 0.000 -217.011
+}
+
+*Node 4
+{
+	*Name	"ib3"
+	*Type	0
+	*Num		9
+	*Show	1
+	*Npos	33.740 63.958 -311.765
+	*Npos	47.016 63.958 -293.179
+	*Npos	46.485 63.958 -265.564
+	*Npos	26.836 63.958 -246.446
+	*Npos	-2.903 63.958 -245.384
+	*Npos	-25.515 63.958 -256.264
+	*Npos	-29.134 63.958 -282.840
+	*Npos	-10.667 63.958 -305.128
+	*Npos	10.438 63.958 -312.633
+}
+
+*Node 5
+{
+	*Name	"ib4"
+	*Type	0
+	*Num		10
+	*Show	1
+	*Npos	-191.515 63.958 9.536
+	*Npos	-168.269 63.958 12.568
+	*Npos	-152.603 63.958 26.213
+	*Npos	-149.571 63.958 46.932
+	*Npos	-155.635 63.958 67.146
+	*Npos	-168.269 63.958 81.801
+	*Npos	-197.074 63.958 83.823
+	*Npos	-214.761 63.958 63.103
+	*Npos	-218.299 63.958 37.836
+	*Npos	-209.202 63.958 18.127
+}
+
+*Node 6
+{
+	*Name	"npc_walex01 *vel 1"
+	*Type	0
+	*Num		33
+	*Show	1
+	*Npos	163.894 69.313 544.978
+	*Npos	142.343 69.313 536.003
+	*Npos	121.988 69.313 523.177
+	*Npos	98.992 69.313 514.594
+	*Npos	72.461 69.313 513.612
+	*Npos	49.643 69.313 515.919
+	*Npos	25.917 69.313 522.813
+	*Npos	3.815 69.313 535.604
+	*Npos	-21.126 69.313 552.416
+	*Npos	-46.080 69.313 567.369
+	*Npos	-70.640 69.313 583.573
+	*Npos	-89.437 69.313 593.222
+	*Npos	-111.849 69.313 602.010
+	*Npos	-136.435 69.313 603.296
+	*Npos	-159.681 69.313 598.561
+	*Npos	-186.658 69.313 593.183
+	*Npos	-213.360 69.313 591.219
+	*Npos	-240.771 69.313 589.933
+	*Npos	-273.123 69.313 588.986
+	*Npos	-295.239 69.313 583.304
+	*Npos	-313.334 69.313 572.887
+	*Npos	-330.469 69.313 558.344
+	*Npos	-335.585 69.313 542.809
+	*Npos	-317.995 69.313 541.086
+	*Npos	-277.742 69.313 565.189
+	*Npos	-236.378 69.313 577.023
+	*Npos	-184.190 69.313 582.493
+	*Npos	-138.571 69.313 588.478
+	*Npos	-107.769 69.313 584.802
+	*Npos	-81.238 69.313 572.920
+	*Npos	-30.554 69.313 530.576
+	*Npos	28.363 69.313 503.440
+	*Npos	97.234 69.313 494.748
+}
+
+*Node 7
+{
+	*Name	"npc_walex03 *vel 3"
+	*Type	0
+	*Num		15
+	*Show	1
+	*Npos	-185.404 109.184 133.254
+	*Npos	-231.382 109.184 118.624
+	*Npos	-256.462 109.184 87.275
+	*Npos	-263.776 109.184 64.286
+	*Npos	-263.776 109.184 42.341
+	*Npos	-251.237 109.184 18.307
+	*Npos	-232.427 109.184 8.902
+	*Npos	-197.944 109.184 -1.547
+	*Npos	-169.729 109.184 -1.547
+	*Npos	-142.560 109.184 12.037
+	*Npos	-121.661 109.184 22.487
+	*Npos	-104.941 109.184 42.341
+	*Npos	-101.806 109.184 70.555
+	*Npos	-115.391 109.184 99.815
+	*Npos	-141.515 109.184 115.489
+}
+
+*Node 8
+{
+	*Name	"npc_vessel4 *t 3"
+	*Type	0
+	*Num		24
+	*Show	1
+	*Npos	1331.662 317.280 383.324
+	*Npos	1215.484 355.860 585.929
+	*Npos	985.356 423.522 789.352
+	*Npos	705.730 487.800 966.664
+	*Npos	403.436 506.926 1085.331
+	*Npos	-0.400 477.905 1144.249
+	*Npos	-347.545 399.154 1088.986
+	*Npos	-630.098 332.369 913.443
+	*Npos	-826.894 287.209 651.828
+	*Npos	-914.119 288.169 380.727
+	*Npos	-950.303 333.862 63.598
+	*Npos	-938.158 361.533 -214.611
+	*Npos	-859.849 359.999 -444.150
+	*Npos	-704.727 342.355 -703.591
+	*Npos	-465.860 298.086 -954.347
+	*Npos	-197.229 258.183 -1102.404
+	*Npos	106.151 222.000 -1153.277
+	*Npos	496.008 216.994 -1120.247
+	*Npos	730.603 228.346 -978.506
+	*Npos	933.162 245.274 -794.822
+	*Npos	1128.581 267.021 -556.487
+	*Npos	1336.208 297.847 -84.190
+	*Npos	1361.357 305.975 181.385
+	*Npos	1331.666 317.280 383.305
+}
+
+*Node 9
+{
+	*Name	"riverex0 *v1"
+	*Type	0
+	*Num		452
+	*Show	1
+	*Npos	-438.184 32.802 -627.768
+	*Npos	-486.073 33.396 -562.843
+	*Npos	-432.919 32.536 -623.679
+	*Npos	-481.071 34.003 -558.104
+	*Npos	-427.323 32.606 -619.870
+	*Npos	-476.596 34.198 -554.418
+	*Npos	-422.268 32.552 -615.389
+	*Npos	-472.383 34.352 -550.996
+	*Npos	-417.386 32.691 -611.445
+	*Npos	-468.961 34.550 -548.100
+	*Npos	-412.903 32.382 -608.394
+	*Npos	-464.406 34.532 -544.244
+	*Npos	-407.813 32.297 -604.617
+	*Npos	-459.694 34.573 -541.071
+	*Npos	-403.112 32.686 -599.916
+	*Npos	-455.516 34.903 -537.067
+	*Npos	-397.715 32.539 -596.086
+	*Npos	-450.641 34.807 -534.281
+	*Npos	-393.189 32.550 -591.211
+	*Npos	-445.600 35.041 -530.124
+	*Npos	-388.662 32.756 -587.381
+	*Npos	-441.074 35.191 -526.468
+	*Npos	-382.581 32.668 -582.822
+	*Npos	-436.191 35.120 -522.095
+	*Npos	-377.880 32.888 -579.129
+	*Npos	-430.488 35.140 -518.000
+	*Npos	-373.247 32.710 -574.615
+	*Npos	-425.787 35.174 -514.043
+	*Npos	-368.894 32.798 -571.656
+	*Npos	-420.870 34.792 -510.567
+	*Npos	-364.368 32.891 -567.999
+	*Npos	-416.712 35.102 -506.911
+	*Npos	-360.898 32.993 -564.720
+	*Npos	-412.185 35.053 -503.536
+	*Npos	-356.708 32.884 -561.664
+	*Npos	-408.007 34.807 -500.750
+	*Npos	-353.010 32.992 -557.838
+	*Npos	-403.746 34.987 -497.621
+	*Npos	-347.164 33.134 -554.725
+	*Npos	-398.349 34.866 -494.661
+	*Npos	-342.638 33.522 -550.024
+	*Npos	-393.523 34.862 -491.524
+	*Npos	-337.937 33.161 -546.975
+	*Npos	-388.891 34.919 -487.642
+	*Npos	-334.281 33.318 -543.524
+	*Npos	-383.899 34.658 -483.634
+	*Npos	-330.277 33.471 -539.693
+	*Npos	-379.372 35.055 -479.630
+	*Npos	-325.576 33.640 -535.167
+	*Npos	-374.498 35.188 -475.800
+	*Npos	-320.876 34.001 -531.163
+	*Npos	-369.971 35.478 -471.969
+	*Npos	-317.394 34.007 -527.487
+	*Npos	-365.619 35.646 -468.468
+	*Npos	-313.041 34.361 -523.831
+	*Npos	-361.092 35.764 -464.986
+	*Npos	-309.211 34.446 -520.001
+	*Npos	-356.740 35.656 -462.026
+	*Npos	-304.922 34.537 -516.011
+	*Npos	-350.785 36.375 -457.899
+	*Npos	-300.569 34.814 -512.008
+	*Npos	-346.433 36.734 -454.243
+	*Npos	-295.109 35.077 -508.439
+	*Npos	-340.979 37.007 -449.716
+	*Npos	-289.712 35.003 -503.564
+	*Npos	-336.801 37.225 -445.293
+	*Npos	-284.756 35.122 -498.271
+	*Npos	-330.679 37.415 -440.227
+	*Npos	-279.789 35.303 -493.744
+	*Npos	-325.228 37.686 -434.551
+	*Npos	-273.869 35.631 -487.477
+	*Npos	-320.354 38.310 -429.255
+	*Npos	-268.298 35.954 -481.658
+	*Npos	-315.895 38.590 -424.902
+	*Npos	-263.483 35.995 -476.662
+	*Npos	-311.941 38.657 -421.654
+	*Npos	-259.043 36.398 -471.720
+	*Npos	-308.308 38.710 -418.869
+	*Npos	-255.039 36.660 -468.064
+	*Npos	-304.509 38.849 -415.124
+	*Npos	-251.382 36.756 -464.582
+	*Npos	-299.904 38.718 -411.731
+	*Npos	-247.030 37.006 -461.100
+	*Npos	-295.180 39.074 -407.433
+	*Npos	-241.708 37.224 -456.738
+	*Npos	-290.722 39.117 -403.187
+	*Npos	-237.674 37.291 -452.704
+	*Npos	-286.900 39.047 -399.790
+	*Npos	-233.428 37.492 -449.095
+	*Npos	-283.928 39.170 -395.543
+	*Npos	-228.333 37.645 -444.212
+	*Npos	-280.318 39.466 -391.509
+	*Npos	-224.511 37.706 -440.178
+	*Npos	-276.072 39.503 -387.476
+	*Npos	-220.052 37.822 -436.356
+	*Npos	-272.463 39.552 -384.005
+	*Npos	-216.231 37.830 -431.400
+	*Npos	-268.429 39.578 -380.184
+	*Npos	-212.632 37.774 -426.490
+	*Npos	-264.183 39.452 -375.300
+	*Npos	-207.961 37.857 -421.606
+	*Npos	-259.724 39.449 -370.417
+	*Npos	-203.715 37.857 -416.086
+	*Npos	-255.053 39.260 -364.685
+	*Npos	-199.013 37.851 -410.647
+	*Npos	-250.170 38.916 -359.589
+	*Npos	-194.554 37.877 -404.784
+	*Npos	-245.499 38.665 -354.269
+	*Npos	-190.308 37.980 -399.040
+	*Npos	-240.616 38.388 -348.749
+	*Npos	-186.761 37.749 -392.905
+	*Npos	-235.945 38.451 -343.866
+	*Npos	-181.805 37.690 -388.027
+	*Npos	-231.486 38.218 -338.771
+	*Npos	-177.346 37.361 -381.446
+	*Npos	-227.877 38.090 -333.038
+	*Npos	-173.949 37.239 -376.350
+	*Npos	-223.452 37.825 -328.055
+	*Npos	-169.790 36.864 -370.942
+	*Npos	-220.068 37.637 -322.471
+	*Npos	-165.570 37.087 -366.019
+	*Npos	-215.809 37.644 -317.711
+	*Npos	-161.193 36.946 -360.050
+	*Npos	-212.302 37.399 -310.696
+	*Npos	-157.435 36.964 -353.787
+	*Npos	-208.544 37.312 -305.463
+	*Npos	-153.903 36.677 -347.130
+	*Npos	-205.162 37.163 -299.231
+	*Npos	-150.145 36.588 -340.365
+	*Npos	-202.149 36.918 -293.747
+	*Npos	-146.110 36.341 -332.279
+	*Npos	-198.285 36.247 -285.380
+	*Npos	-141.547 36.158 -324.389
+	*Npos	-195.168 36.137 -278.535
+	*Npos	-136.425 35.946 -316.291
+	*Npos	-191.397 36.061 -271.690
+	*Npos	-131.856 35.744 -309.502
+	*Npos	-186.811 35.716 -264.747
+	*Npos	-127.549 35.501 -301.078
+	*Npos	-183.983 35.360 -258.391
+	*Npos	-123.754 35.671 -293.932
+	*Npos	-180.779 35.420 -249.954
+	*Npos	-120.008 35.432 -286.298
+	*Npos	-177.205 35.025 -241.432
+	*Npos	-116.220 34.991 -276.896
+	*Npos	-173.189 34.648 -233.271
+	*Npos	-112.007 35.136 -268.208
+	*Npos	-170.735 34.401 -226.952
+	*Npos	-107.748 34.722 -258.038
+	*Npos	-167.254 34.231 -219.983
+	*Npos	-103.904 34.786 -249.872
+	*Npos	-163.974 33.993 -213.014
+	*Npos	-100.482 34.804 -241.974
+	*Npos	-160.552 33.933 -204.770
+	*Npos	-96.919 34.668 -232.793
+	*Npos	-156.866 33.889 -196.345
+	*Npos	-93.388 34.610 -224.511
+	*Npos	-153.180 33.983 -188.184
+	*Npos	-89.469 34.493 -215.827
+	*Npos	-151.090 34.075 -180.294
+	*Npos	-86.983 34.621 -208.481
+	*Npos	-148.322 34.059 -173.692
+	*Npos	-83.643 34.306 -201.513
+	*Npos	-145.349 34.056 -167.509
+	*Npos	-81.027 34.488 -195.331
+	*Npos	-142.853 34.174 -160.138
+	*Npos	-77.698 35.003 -188.911
+	*Npos	-138.810 34.249 -152.528
+	*Npos	-75.082 35.138 -182.490
+	*Npos	-134.768 34.512 -144.919
+	*Npos	-70.326 35.759 -173.930
+	*Npos	-130.715 34.903 -138.033
+	*Npos	-66.759 35.748 -168.035
+	*Npos	-127.201 35.106 -131.177
+	*Npos	-61.290 36.094 -160.901
+	*Npos	-121.927 35.705 -124.853
+	*Npos	-57.113 36.425 -155.378
+	*Npos	-117.647 36.218 -118.432
+	*Npos	-52.749 36.531 -150.178
+	*Npos	-111.940 36.941 -112.012
+	*Npos	-47.271 36.788 -144.388
+	*Npos	-103.855 36.970 -105.829
+	*Npos	-40.728 36.408 -140.398
+	*Npos	-95.770 37.218 -99.171
+	*Npos	-35.326 36.003 -136.961
+	*Npos	-88.336 37.152 -91.799
+	*Npos	-28.679 35.396 -133.451
+	*Npos	-78.649 37.315 -84.872
+	*Npos	-22.274 35.116 -130.747
+	*Npos	-70.089 37.372 -80.116
+	*Npos	-15.970 34.652 -127.817
+	*Npos	-61.465 36.674 -74.885
+	*Npos	-9.918 34.329 -125.495
+	*Npos	-52.275 36.122 -70.733
+	*Npos	-3.305 34.016 -124.436
+	*Npos	-44.742 35.582 -67.345
+	*Npos	1.962 33.594 -123.494
+	*Npos	-36.772 35.138 -64.491
+	*Npos	6.718 32.985 -122.572
+	*Npos	-28.475 34.242 -62.173
+	*Npos	12.663 32.616 -121.858
+	*Npos	-20.866 33.648 -60.033
+	*Npos	18.574 32.510 -120.592
+	*Npos	-11.534 32.825 -57.593
+	*Npos	24.929 31.770 -119.898
+	*Npos	-3.228 32.066 -55.360
+	*Npos	30.653 31.559 -119.149
+	*Npos	7.434 31.341 -53.627
+	*Npos	37.039 31.141 -118.283
+	*Npos	16.963 31.225 -52.472
+	*Npos	42.950 30.989 -118.018
+	*Npos	27.337 30.612 -51.895
+	*Npos	50.746 30.617 -117.441
+	*Npos	38.619 30.291 -51.611
+	*Npos	57.965 30.437 -117.152
+	*Npos	48.415 29.962 -51.394
+	*Npos	65.473 30.098 -116.574
+	*Npos	58.054 29.591 -50.380
+	*Npos	72.980 29.823 -115.997
+	*Npos	66.628 29.361 -50.239
+	*Npos	81.549 29.173 -114.764
+	*Npos	73.846 28.836 -49.874
+	*Npos	89.481 28.975 -114.036
+	*Npos	80.618 28.666 -49.802
+	*Npos	96.773 29.017 -112.519
+	*Npos	90.147 28.846 -48.830
+	*Npos	104.470 29.065 -111.522
+	*Npos	98.109 29.463 -48.350
+	*Npos	111.935 29.409 -110.631
+	*Npos	105.218 29.361 -47.433
+	*Npos	118.930 29.503 -109.687
+	*Npos	112.326 29.860 -46.380
+	*Npos	126.297 29.811 -109.296
+	*Npos	119.150 30.184 -45.421
+	*Npos	134.177 30.004 -108.606
+	*Npos	125.448 29.912 -44.105
+	*Npos	141.286 30.047 -107.026
+	*Npos	133.345 30.384 -43.052
+	*Npos	149.184 30.316 -104.920
+	*Npos	139.180 30.833 -41.832
+	*Npos	156.555 30.553 -103.246
+	*Npos	145.498 30.528 -39.768
+	*Npos	164.190 30.797 -101.212
+	*Npos	151.027 31.024 -37.284
+	*Npos	171.951 31.046 -98.437
+	*Npos	157.791 31.825 -34.249
+	*Npos	179.913 31.450 -94.396
+	*Npos	165.209 32.412 -30.436
+	*Npos	189.078 31.889 -89.840
+	*Npos	172.335 32.872 -26.291
+	*Npos	198.458 32.591 -86.006
+	*Npos	179.872 32.916 -21.661
+	*Npos	206.636 33.201 -82.192
+	*Npos	186.683 33.478 -17.164
+	*Npos	214.360 33.954 -77.649
+	*Npos	193.188 33.769 -12.310
+	*Npos	222.012 34.694 -71.186
+	*Npos	198.458 33.753 -5.731
+	*Npos	229.354 35.024 -65.381
+	*Npos	202.797 33.716 -0.108
+	*Npos	234.802 35.609 -60.654
+	*Npos	206.228 33.492 4.374
+	*Npos	240.814 36.087 -55.644
+	*Npos	209.600 33.250 9.315
+	*Npos	245.825 36.472 -51.148
+	*Npos	212.627 33.416 14.293
+	*Npos	249.583 37.007 -46.388
+	*Npos	215.626 33.408 18.570
+	*Npos	253.591 37.533 -40.961
+	*Npos	219.821 33.287 23.507
+	*Npos	258.551 37.540 -35.459
+	*Npos	223.085 33.112 28.558
+	*Npos	262.928 37.654 -28.754
+	*Npos	225.841 33.089 33.318
+	*Npos	265.934 37.550 -24.495
+	*Npos	229.161 32.784 37.633
+	*Npos	269.934 37.516 -19.794
+	*Npos	231.917 32.925 42.700
+	*Npos	273.692 37.598 -14.283
+	*Npos	234.787 32.888 48.202
+	*Npos	277.858 37.717 -8.888
+	*Npos	236.885 32.577 54.567
+	*Npos	281.114 37.543 -3.878
+	*Npos	238.524 32.411 59.548
+	*Npos	285.365 37.376 2.133
+	*Npos	240.299 32.257 63.715
+	*Npos	289.280 37.415 7.901
+	*Npos	241.624 31.661 68.066
+	*Npos	292.690 37.094 12.623
+	*Npos	243.879 31.428 73.224
+	*Npos	294.987 36.907 18.210
+	*Npos	245.810 31.495 78.041
+	*Npos	297.938 36.657 24.915
+	*Npos	247.788 30.828 83.253
+	*Npos	300.541 36.298 31.739
+	*Npos	249.921 30.680 87.826
+	*Npos	303.688 36.031 38.042
+	*Npos	251.535 30.696 93.751
+	*Npos	306.388 35.846 42.993
+	*Npos	253.144 30.281 99.611
+	*Npos	308.766 35.581 48.807
+	*Npos	254.396 30.182 103.870
+	*Npos	311.021 35.046 55.169
+	*Npos	255.896 30.093 109.882
+	*Npos	313.025 34.578 62.183
+	*Npos	257.403 29.653 115.259
+	*Npos	315.057 34.019 70.451
+	*Npos	258.906 29.280 120.019
+	*Npos	317.127 33.463 77.230
+	*Npos	260.166 29.332 126.265
+	*Npos	319.789 33.064 84.481
+	*Npos	261.419 29.329 131.777
+	*Npos	321.794 32.542 91.997
+	*Npos	262.311 29.292 138.345
+	*Npos	323.628 31.931 100.059
+	*Npos	263.284 29.419 145.017
+	*Npos	325.379 31.505 107.616
+	*Npos	264.919 29.264 151.494
+	*Npos	326.976 31.251 115.466
+	*Npos	265.954 29.464 158.531
+	*Npos	328.593 31.250 124.652
+	*Npos	266.953 29.540 164.675
+	*Npos	329.345 31.032 132.581
+	*Npos	267.700 29.755 170.789
+	*Npos	330.439 30.710 140.532
+	*Npos	268.175 29.963 176.819
+	*Npos	331.534 30.562 149.287
+	*Npos	268.689 30.473 182.562
+	*Npos	332.919 30.267 157.009
+	*Npos	269.428 30.778 188.111
+	*Npos	333.577 30.565 165.011
+	*Npos	269.934 31.096 193.775
+	*Npos	334.970 31.301 172.217
+	*Npos	270.349 31.480 199.174
+	*Npos	335.959 31.777 179.290
+	*Npos	270.849 31.700 205.095
+	*Npos	337.275 32.443 188.768
+	*Npos	271.352 32.454 211.413
+	*Npos	338.855 33.012 198.221
+	*Npos	271.607 33.016 217.480
+	*Npos	340.340 33.474 207.739
+	*Npos	271.297 33.428 223.535
+	*Npos	340.616 34.285 216.953
+	*Npos	271.619 34.202 232.486
+	*Npos	341.964 34.784 226.168
+	*Npos	271.560 34.911 240.384
+	*Npos	342.927 35.841 235.629
+	*Npos	271.751 35.388 247.146
+	*Npos	343.670 36.347 243.889
+	*Npos	272.503 35.963 255.664
+	*Npos	344.405 36.647 251.405
+	*Npos	273.004 36.689 263.180
+	*Npos	345.157 37.142 258.670
+	*Npos	274.256 37.113 270.946
+	*Npos	345.641 37.863 267.188
+	*Npos	275.008 37.436 278.963
+	*Npos	345.916 38.135 275.706
+	*Npos	275.365 37.917 286.481
+	*Npos	346.584 38.576 285.641
+	*Npos	275.760 38.462 295.750
+	*Npos	347.192 38.902 293.286
+	*Npos	276.231 38.809 303.248
+	*Npos	347.959 39.727 301.262
+	*Npos	276.804 39.723 311.033
+	*Npos	348.268 40.094 309.596
+	*Npos	276.617 39.958 319.551
+	*Npos	349.258 40.692 318.047
+	*Npos	277.012 40.504 327.317
+	*Npos	350.006 41.218 327.067
+	*Npos	277.433 40.877 334.990
+	*Npos	350.757 41.708 335.491
+	*Npos	278.014 41.387 342.005
+	*Npos	350.703 41.903 342.845
+	*Npos	278.630 41.922 349.743
+	*Npos	351.670 42.154 349.993
+	*Npos	280.269 42.426 357.509
+	*Npos	351.811 42.072 355.844
+	*Npos	280.789 42.697 364.959
+	*Npos	352.422 42.280 362.520
+	*Npos	281.706 42.751 371.996
+	*Npos	352.171 42.414 370.036
+	*Npos	281.455 43.114 378.760
+	*Npos	352.719 42.752 377.533
+	*Npos	281.455 42.942 385.775
+	*Npos	353.042 43.023 385.800
+	*Npos	282.207 43.249 394.293
+	*Npos	353.581 43.414 394.438
+	*Npos	282.169 43.642 402.601
+	*Npos	354.111 43.462 401.988
+	*Npos	282.757 43.852 410.245
+	*Npos	353.735 43.599 410.194
+	*Npos	282.645 43.974 418.161
+	*Npos	354.106 43.740 417.100
+	*Npos	282.857 43.910 425.380
+	*Npos	354.530 44.058 424.743
+	*Npos	282.857 44.133 431.749
+	*Npos	354.530 44.177 430.688
+	*Npos	283.133 44.120 438.057
+	*Npos	354.318 44.330 438.756
+	*Npos	283.502 44.262 445.338
+	*Npos	354.471 44.619 445.975
+	*Npos	283.860 44.178 452.769
+	*Npos	354.433 44.986 453.406
+	*Npos	283.753 44.277 459.563
+	*Npos	354.645 45.120 459.563
+	*Npos	283.575 45.058 466.569
+	*Npos	354.743 45.445 466.781
+	*Npos	283.864 45.112 473.151
+	*Npos	354.339 45.408 473.363
+	*Npos	284.006 45.552 481.096
+	*Npos	354.042 45.511 480.621
+	*Npos	283.764 45.649 489.426
+	*Npos	354.169 45.751 489.014
+	*Npos	283.773 45.231 496.595
+	*Npos	354.191 45.952 495.321
+	*Npos	283.259 45.479 503.389
+	*Npos	354.008 45.680 502.168
+	*Npos	282.983 45.660 510.395
+	*Npos	354.025 45.740 509.708
+	*Npos	282.622 45.693 518.838
+	*Npos	354.509 45.743 517.452
+	*Npos	282.726 46.053 527.664
+	*Npos	354.811 45.760 528.448
+	*Npos	282.615 45.645 537.931
+	*Npos	355.189 46.091 536.860
+	*Npos	282.581 45.657 545.303
+	*Npos	355.588 46.282 544.250
+	*Npos	282.844 45.696 551.621
+	*Npos	355.554 46.214 550.931
+	*Npos	283.061 45.499 558.628
+	*Npos	355.163 46.313 558.466
+	*Npos	283.341 45.509 567.215
+	*Npos	354.467 46.223 565.372
+	*Npos	283.868 45.358 575.113
+	*Npos	355.333 46.432 574.121
+	*Npos	284.381 45.436 584.368
+	*Npos	355.426 46.597 583.477
+	*Npos	284.437 45.517 593.218
+	*Npos	356.459 46.769 593.218
+	*Npos	284.437 45.719 601.906
+	*Npos	357.754 47.011 602.169
+	*Npos	285.286 45.905 610.857
+	*Npos	357.889 47.344 611.383
+	*Npos	285.812 45.814 621.388
+	*Npos	358.493 47.478 622.704
+	*Npos	286.870 45.547 631.756
+	*Npos	358.854 47.946 631.568
+	*Npos	287.427 45.159 642.099
+	*Npos	360.517 48.164 639.730
+	*Npos	287.901 45.337 652.670
+	*Npos	360.733 48.164 646.211
+	*Npos	287.911 45.253 664.244
+}
+
+*Node 10
+{
+	*Name	"npc_walex03 *vel 2"
+	*Type	0
+	*Num		17
+	*Show	1
+	*Npos	29.617 61.889 -248.915
+	*Npos	19.985 61.889 -239.553
+	*Npos	1.694 61.889 -236.748
+	*Npos	-17.784 61.889 -240.670
+	*Npos	-31.989 61.889 -252.452
+	*Npos	-39.715 61.889 -268.074
+	*Npos	-42.349 61.889 -285.305
+	*Npos	-39.433 61.889 -299.366
+	*Npos	-28.250 61.889 -313.872
+	*Npos	-11.064 61.889 -323.776
+	*Npos	12.426 61.889 -325.447
+	*Npos	30.255 61.889 -316.771
+	*Npos	41.300 61.889 -301.382
+	*Npos	42.486 61.889 -281.339
+	*Npos	39.193 61.889 -270.676
+	*Npos	32.936 61.889 -261.278
+	*Npos	29.587 61.889 -248.918
+}
+
+*Node 11
+{
+	*Name	"ib5"
+	*Type	0
+	*Num		15
+	*Show	1
+	*Npos	39.728 47.070 -152.214
+	*Npos	28.456 47.070 -168.513
+	*Npos	26.186 47.070 -185.990
+	*Npos	31.197 47.070 -207.055
+	*Npos	45.561 47.070 -220.969
+	*Npos	65.364 47.070 -228.563
+	*Npos	81.741 47.070 -227.080
+	*Npos	98.126 47.070 -219.378
+	*Npos	109.287 47.070 -207.361
+	*Npos	114.777 47.070 -189.267
+	*Npos	111.548 47.070 -166.064
+	*Npos	98.272 47.070 -149.233
+	*Npos	81.732 47.070 -141.485
+	*Npos	61.441 47.070 -142.361
+	*Npos	43.625 47.070 -148.675
+}
+
+*Node 12
+{
+	*Name	"ib6"
+	*Type	0
+	*Num		9
+	*Show	1
+	*Npos	44.771 38.160 -223.590
+	*Npos	37.756 38.160 -236.935
+	*Npos	34.270 38.160 -251.659
+	*Npos	48.051 38.160 -260.659
+	*Npos	67.340 38.160 -266.734
+	*Npos	73.345 38.160 -253.682
+	*Npos	79.066 38.160 -235.264
+	*Npos	61.610 38.160 -228.192
+	*Npos	45.970 38.160 -223.933
+}
+
+*NumElement 200
+
+*Element 0
+{
+	*Type  "GAME"
+	*WadFile ""
+	*BspFile ""
+	*Ambient 180 178 178
+	*Diffuse 191 182 182
+	*Ambient2 241 237 237
+	*Shadow 140 138 154
+	*Par 4
+}
+
+*Element 1
+{
+	*Type  "CAMERA"
+	*Class ""
+	*Name  "DefaultCamera"
+	*Pos 194.12 196.46 -515.74
+	*Dest 97.27 -58.36 198.86
+	*Fov 56.40
+	*Bank 0.00
+}
+
+*Element 2
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "끝점1_2"
+	*Pos -212.89 0.00 460.99
+}
+
+*Element 3
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "시작점2"
+	*Pos 161.04 0.00 -720.78
+}
+
+*Element 4
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "시작점"
+	*Pos 160.64 0.00 -668.97
+}
+
+*Element 5
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "끝점1_1"
+	*Pos -203.58 0.00 519.82
+}
+
+*Element 6
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "끝점1_3"
+	*Pos -176.31 0.00 479.15
+}
+
+*Element 7
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "끝점2_1"
+	*Pos -169.94 0.00 509.41
+}
+
+*Element 8
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "끝점2_2"
+	*Pos -227.94 0.00 501.73
+}
+
+*Element 9
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "끝점2_3"
+	*Pos -244.58 0.00 470.40
+}
+
+*Element 10
+{
+	*Type  "POINT"
+	*Class "WGlobalLight"
+	*Name  "글로벌"
+	*Pos 465.83 966.04 -699.31
+}
+
+*Element 11
+{
+	*Type  "POINT"
+	*Class "WSun"
+	*Name  "태양"
+	*Pos 477.59 968.49 -688.44
+	*Data ""
+}
+
+*Element 12
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "그리드"
+	*Pos -209.75 0.00 490.57
+}
+
+*Element 13
+{
+	*Type  "POINT"
+	*Class "WSecondaryGlobalLight"
+	*Name  ""
+	*Pos -356.45 679.35 -469.47
+	*Data ""
+}
+
+*Element 14
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "대화방시작"
+	*Pos 241.50 0.00 -229.90
+}
+
+*Element 15
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/GS_obj_T.pet"
+	*Pos 220.33 110.23 -185.16
+	*Rot 10.0 18.0 3.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 16
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree15.pet"
+	*Pos 758.41 75.90 201.57
+	*Rot 0.0 -27.0 0.0
+	*Scale 1.63
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 17
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree20.pet"
+	*Pos 823.12 75.92 137.99
+	*Rot 0.0 90.0 0.0
+	*Scale 1.89
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 18
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree11.pet"
+	*Pos 827.86 47.31 -51.82
+	*Rot 0.0 48.0 0.0
+	*Scale 2.31
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 19
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree11.pet"
+	*Pos 803.96 49.46 -13.89
+	*Rot 0.0 -57.0 0.0
+	*Scale 1.52
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 20
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree19.pet"
+	*Pos 817.28 66.86 90.10
+	*Rot 0.0 245.0 0.0
+	*Scale 2.14
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 21
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree15.pet"
+	*Pos -387.69 76.79 649.87
+	*Rot 0.0 55.0 0.0
+	*Scale 2.60
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 22
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree20.pet"
+	*Pos -266.55 82.20 718.55
+	*Rot 0.0 90.0 0.0
+	*Scale 2.74
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 23
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree20.pet"
+	*Pos -333.03 80.96 711.58
+	*Rot 0.0 180.0 0.0
+	*Scale 2.28
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 24
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree11.pet"
+	*Pos -154.09 69.30 698.35
+	*Rot 0.0 90.0 0.0
+	*Scale 1.52
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 25
+{
+	*Type  "PUPPET"
+	*Class "WVtxObj"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/GS_New T_01.pet"
+	*Pos 5.10 39.48 -293.07
+	*Rot 0.0 -38.0 0.0
+	*Scale 2.50
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 26
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/GS_New T_02.pet"
+	*Pos 53.64 86.41 -249.91
+	*Rot 0.0 -114.0 0.0
+	*Scale 2.30
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 27
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree19.pet"
+	*Pos -456.75 59.93 210.54
+	*Rot 0.0 -97.0 0.0
+	*Scale 2.93
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 28
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree15.pet"
+	*Pos -458.44 64.94 255.54
+	*Rot 0.0 -125.0 0.0
+	*Scale 2.56
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 29
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree11.pet"
+	*Pos -420.97 77.60 343.81
+	*Rot 0.0 295.0 0.0
+	*Scale 0.90
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 30
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree19.pet"
+	*Pos -471.60 57.28 17.85
+	*Rot 0.0 357.0 0.0
+	*Scale 2.54
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 31
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree16.pet"
+	*Pos -438.58 65.19 142.56
+	*Rot 0.0 42.0 0.0
+	*Scale 0.90
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 32
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree20.pet"
+	*Pos -176.69 69.28 737.99
+	*Rot 0.0 302.0 0.0
+	*Scale 2.28
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 33
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree19.pet"
+	*Pos -283.91 78.82 675.15
+	*Rot 0.0 32.0 0.0
+	*Scale 1.72
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 34
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree15.pet"
+	*Pos 686.28 51.38 -566.99
+	*Rot 0.0 110.0 0.0
+	*Scale 2.46
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 35
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree19.pet"
+	*Pos 739.13 58.70 -481.89
+	*Rot 0.0 90.0 0.0
+	*Scale 2.14
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 36
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree16.pet"
+	*Pos 664.74 53.15 -639.36
+	*Rot 0.0 151.0 0.0
+	*Scale 0.64
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 37
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree11.pet"
+	*Pos 65.18 58.14 -826.08
+	*Rot 0.0 -69.0 0.0
+	*Scale 1.57
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 38
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree19.pet"
+	*Pos -11.05 59.57 -800.43
+	*Rot 0.0 291.0 0.0
+	*Scale 2.55
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 39
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/GS_obj_T.pet"
+	*Pos -304.18 50.63 -620.94
+	*Rot -11.0 99.0 0.0
+	*Scale 0.69
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 40
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/GS_New T_02.pet"
+	*Pos -431.59 57.79 -427.06
+	*Rot 39.0 -180.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 41
+{
+	*Type  "PUPPET"
+	*Class "WVtxObj"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/GS_New T_01.pet"
+	*Pos -414.99 41.38 -381.81
+	*Rot 0.0 -39.0 9.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 42
+{
+	*Type  "PUPPET"
+	*Class "WVtxObj"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_port.pet"
+	*Pos 210.15 57.49 554.91
+	*Rot 0.0 173.0 -5.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 43
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_sand_house10_02.pet"
+	*Pos 546.50 86.62 493.20
+	*Rot 0.0 -8.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 44
+{
+	*Type  "PUPPET"
+	*Class "WVtxObj"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_sand_house.pet"
+	*Pos 571.00 65.73 454.88
+	*Rot 0.0 -30.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 45
+{
+	*Type  "PUPPET"
+	*Class "WVtxObj"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_sand_house10.pet"
+	*Pos 736.83 66.54 350.78
+	*Rot 0.0 -57.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 46
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_subtree_05.pet"
+	*Pos 771.27 60.83 -431.87
+	*Rot 0.0 0.0 0.0
+	*Scale 1.80
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 47
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_subtree_05.pet"
+	*Pos -343.78 75.98 652.06
+	*Rot 0.0 0.0 0.0
+	*Scale 2.37
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 48
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree15.pet"
+	*Pos 639.58 72.14 465.42
+	*Rot 0.0 -24.0 0.0
+	*Scale 2.60
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 49
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree15.pet"
+	*Pos -192.24 43.22 -651.63
+	*Rot 0.0 -71.0 0.0
+	*Scale 2.60
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 50
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree8.pet"
+	*Pos -424.40 87.04 177.77
+	*Rot 0.0 -20.0 0.0
+	*Scale 3.41
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 51
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_tree07_01.pet"
+	*Pos -314.40 38.25 103.48
+	*Rot 0.0 5.0 0.0
+	*Scale 0.95
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 52
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree07_01.pet"
+	*Pos -429.53 49.34 -167.04
+	*Rot 0.0 0.0 0.0
+	*Scale 0.79
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 53
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree07_01.pet"
+	*Pos -449.64 91.36 427.38
+	*Rot 0.0 0.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 54
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree07_01.pet"
+	*Pos -20.16 67.99 651.81
+	*Rot 0.0 0.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 55
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree8.pet"
+	*Pos -209.23 88.84 643.69
+	*Rot 0.0 -90.0 0.0
+	*Scale 2.34
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 56
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree8.pet"
+	*Pos -114.34 86.98 701.66
+	*Rot 0.0 10.0 0.0
+	*Scale 2.91
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 57
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree8.pet"
+	*Pos -435.43 97.04 551.76
+	*Rot 0.0 108.0 0.0
+	*Scale 2.87
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 58
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree8.pet"
+	*Pos -84.61 82.08 703.28
+	*Rot 0.0 25.0 0.0
+	*Scale 2.37
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 59
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_B_palmtree01_1.pet"
+	*Pos 46.34 111.03 616.43
+	*Rot 0.0 0.0 0.0
+	*Scale 1.57
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 60
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_B_palmtree01_1.pet"
+	*Pos 7.37 97.32 677.84
+	*Rot 0.0 -112.0 0.0
+	*Scale 1.31
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 61
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_B_palmtree01_1.pet"
+	*Pos -428.89 112.99 510.92
+	*Rot 0.0 38.0 0.0
+	*Scale 1.57
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 62
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_palmtree02_1.pet"
+	*Pos 83.51 95.14 635.39
+	*Rot 0.0 0.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 63
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_B_palmtree01_1.pet"
+	*Pos 422.22 98.55 493.17
+	*Rot 0.0 12.0 0.0
+	*Scale 1.57
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 64
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_palmtree02_1.pet"
+	*Pos 446.68 96.17 527.15
+	*Rot 0.0 0.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 65
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree07_01.pet"
+	*Pos 723.93 68.16 245.73
+	*Rot 0.0 0.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 66
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_B_palmtree01_1.pet"
+	*Pos 504.86 97.06 491.42
+	*Rot 0.0 -50.0 0.0
+	*Scale 1.22
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 67
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_palmtree02_1.pet"
+	*Pos 735.87 99.19 312.51
+	*Rot 0.0 135.0 0.0
+	*Scale 1.51
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 68
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree07_01.pet"
+	*Pos 701.98 65.43 355.98
+	*Rot 0.0 -90.0 0.0
+	*Scale 0.79
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 69
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree8.pet"
+	*Pos 787.33 67.72 -73.48
+	*Rot 0.0 148.0 0.0
+	*Scale 3.37
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 70
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree07_01.pet"
+	*Pos 803.77 48.12 -117.31
+	*Rot 0.0 0.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 71
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_B_palmtree01_1.pet"
+	*Pos 814.01 87.07 -229.09
+	*Rot 0.0 236.0 0.0
+	*Scale 1.77
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 72
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_B_palmtree01_1.pet"
+	*Pos 791.11 78.94 -262.28
+	*Rot 0.0 151.0 0.0
+	*Scale 1.33
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 73
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_tree07_01.pet"
+	*Pos 750.54 44.39 80.90
+	*Rot 0.0 -34.0 0.0
+	*Scale 1.02
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 74
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_B_palmtree01_1.pet"
+	*Pos 229.15 84.33 -781.79
+	*Rot 0.0 78.0 0.0
+	*Scale 1.51
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 75
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_B_palmtree01_1.pet"
+	*Pos -6.10 74.22 -713.89
+	*Rot 0.0 0.0 0.0
+	*Scale 1.29
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 76
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_palmtree02_1.pet"
+	*Pos 200.90 89.23 -812.62
+	*Rot 0.0 101.0 0.0
+	*Scale 1.37
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 77
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_B_palmtree01_1.pet"
+	*Pos -224.32 61.54 -685.75
+	*Rot 0.0 257.0 0.0
+	*Scale 0.89
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 78
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_B_palmtree01_1.pet"
+	*Pos -421.61 95.00 -338.44
+	*Rot 0.0 356.0 0.0
+	*Scale 1.37
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 79
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree07_01.pet"
+	*Pos -391.39 62.55 -315.94
+	*Rot 0.0 -78.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 80
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_palmtree02_1.pet"
+	*Pos -406.81 80.16 -289.84
+	*Rot 0.0 180.0 0.0
+	*Scale 1.13
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 81
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree8.pet"
+	*Pos -209.40 60.11 -727.63
+	*Rot 0.0 68.0 0.0
+	*Scale 1.80
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 82
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree8.pet"
+	*Pos 6.06 74.74 -752.22
+	*Rot 0.0 143.0 0.0
+	*Scale 3.09
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 83
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree8.pet"
+	*Pos 261.45 73.61 -804.46
+	*Rot 0.0 -100.0 0.0
+	*Scale 2.76
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 84
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree07_01.pet"
+	*Pos 275.18 54.60 -769.06
+	*Rot 0.0 -90.0 0.0
+	*Scale 0.85
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 85
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_subtree_10_01.pet"
+	*Pos 234.85 53.80 -806.34
+	*Rot 0.0 0.0 0.0
+	*Scale 2.90
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 86
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_a_plant01_01.pet"
+	*Pos 295.70 54.62 -770.75
+	*Rot 0.0 5.0 0.0
+	*Scale 0.74
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 87
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_subtree_10_01.pet"
+	*Pos 57.13 57.51 -815.52
+	*Rot 0.0 -42.0 0.0
+	*Scale 2.62
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 88
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_ect06-b.pet"
+	*Pos 74.29 45.92 -627.08
+	*Rot 0.0 36.0 0.0
+	*Scale 1.24
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 89
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_ect06-b.pet"
+	*Pos 67.78 46.13 -645.13
+	*Rot 0.0 3.0 0.0
+	*Scale 1.36
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 90
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_ect06-b.pet"
+	*Pos 62.32 46.96 -668.10
+	*Rot 0.0 -47.0 0.0
+	*Scale 1.11
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 91
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_ect06-b.pet"
+	*Pos 63.01 47.46 -686.78
+	*Rot 0.0 3.0 0.0
+	*Scale 1.32
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 92
+{
+	*Type  "PUPPET"
+	*Class "WVtxObj"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/GS_New T_01.pet"
+	*Pos 210.80 47.89 -668.14
+	*Rot 0.0 196.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 93
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/GS_New T_02.pet"
+	*Pos 146.21 73.58 -748.64
+	*Rot 0.0 76.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 94
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos -176.10 46.39 -660.02
+	*Rot 0.0 63.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 95
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree07_01.pet"
+	*Pos 22.18 59.63 -799.72
+	*Rot 0.0 -12.0 0.0
+	*Scale 1.07
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 96
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos 34.00 58.50 -796.06
+	*Rot 0.0 150.0 0.0
+	*Scale 0.81
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 97
+{
+	*Type  "PUPPET"
+	*Class "WVtxObj"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_sand_house10.pet"
+	*Pos -403.91 76.28 583.55
+	*Rot 0.0 35.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 98
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_B_palmtree01_1.pet"
+	*Pos 499.17 61.02 -375.09
+	*Rot 0.0 180.0 11.0
+	*Scale 0.72
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 99
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree07_01.pet"
+	*Pos 736.98 61.55 -443.34
+	*Rot 0.0 -210.0 0.0
+	*Scale 0.88
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 100
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree07_01.pet"
+	*Pos 508.18 45.78 -399.95
+	*Rot 0.0 -45.0 0.0
+	*Scale 0.51
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 101
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_subtree_10_01.pet"
+	*Pos 662.58 48.36 -607.17
+	*Rot 0.0 0.0 0.0
+	*Scale 2.90
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 102
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_subtree_10_01.pet"
+	*Pos 710.98 53.92 -488.37
+	*Rot 0.0 -68.0 0.0
+	*Scale 2.90
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 103
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_subtree_10_01.pet"
+	*Pos 792.70 70.51 150.97
+	*Rot 0.0 -22.0 0.0
+	*Scale 2.90
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 104
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_subtree_10_01.pet"
+	*Pos -361.63 55.11 159.50
+	*Rot 0.0 -166.0 0.0
+	*Scale 2.76
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 105
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos -425.50 48.64 -9.73
+	*Rot 0.0 94.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 106
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos -426.42 68.39 302.82
+	*Rot 0.0 70.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 107
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_B_palmtree01_1.pet"
+	*Pos -184.94 60.71 64.01
+	*Rot -9.0 -17.0 13.0
+	*Scale 1.15
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 108
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_B_palmtree01_1.pet"
+	*Pos -158.04 54.28 47.30
+	*Rot -21.0 103.0 -35.0
+	*Scale 0.85
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 109
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos -357.06 76.85 612.07
+	*Rot 0.0 54.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 110
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_001.pet"
+	*Pos -252.52 74.62 634.65
+	*Rot 0.0 13.0 0.0
+	*Scale 0.89
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 111
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_001.pet"
+	*Pos -459.85 62.44 57.32
+	*Rot 0.0 -85.0 0.0
+	*Scale 0.89
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 112
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_subtree_10_01.pet"
+	*Pos -179.48 36.68 45.28
+	*Rot 0.0 -113.0 0.0
+	*Scale 2.56
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 113
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_001.pet"
+	*Pos 799.90 50.14 -210.26
+	*Rot 15.0 -62.0 0.0
+	*Scale 0.89
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 114
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos 802.09 50.71 -171.21
+	*Rot 0.0 138.0 0.0
+	*Scale 1.43
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 115
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_subtree_10_01.pet"
+	*Pos 809.86 49.57 -141.07
+	*Rot 0.0 -67.0 0.0
+	*Scale 2.90
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 116
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos 756.82 43.84 -124.88
+	*Rot 0.0 79.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 117
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree8.pet"
+	*Pos -57.16 65.71 -759.02
+	*Rot 0.0 333.0 9.0
+	*Scale 2.45
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 118
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos 93.74 59.56 -830.89
+	*Rot 0.0 150.0 12.0
+	*Scale 0.81
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 119
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_a_plant01_01.pet"
+	*Pos -453.43 51.36 -105.54
+	*Rot 0.0 9.0 0.0
+	*Scale 0.61
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 120
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_a_plant01_01.pet"
+	*Pos -494.95 55.31 -1.80
+	*Rot 14.0 21.0 17.0
+	*Scale 1.10
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 121
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_subtree_10_01.pet"
+	*Pos -354.83 46.43 -55.41
+	*Rot 0.0 54.0 0.0
+	*Scale 2.20
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 122
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_001.pet"
+	*Pos -29.05 66.60 660.60
+	*Rot 0.0 -41.0 0.0
+	*Scale 0.89
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 123
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_a_plant01_01.pet"
+	*Pos 711.55 53.17 135.89
+	*Rot 0.0 6.0 0.0
+	*Scale 0.89
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 124
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_subtree_10_01.pet"
+	*Pos -457.43 60.62 182.14
+	*Rot 0.0 -134.0 0.0
+	*Scale 2.76
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 125
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_a_plant01_01.pet"
+	*Pos 824.96 56.41 27.93
+	*Rot 0.0 17.0 0.0
+	*Scale 1.13
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 126
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_002.pet"
+	*Pos 827.02 46.40 -67.44
+	*Rot 0.0 -43.0 0.0
+	*Scale 1.32
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 127
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_002.pet"
+	*Pos 798.23 67.25 117.74
+	*Rot 0.0 -69.0 0.0
+	*Scale 1.32
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 128
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_002.pet"
+	*Pos -440.73 60.48 232.60
+	*Rot 0.0 -110.0 0.0
+	*Scale 1.32
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 129
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_ect06-b.pet"
+	*Pos -398.91 51.33 59.00
+	*Rot 0.0 -46.0 0.0
+	*Scale 2.30
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 130
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_002.pet"
+	*Pos 755.72 74.15 236.51
+	*Rot 0.0 -66.0 0.0
+	*Scale 1.32
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 131
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree07_01.pet"
+	*Pos -405.31 48.39 15.74
+	*Rot 0.0 -97.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 132
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree8.pet"
+	*Pos -440.44 66.38 -88.62
+	*Rot 11.0 115.0 15.0
+	*Scale 2.33
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 133
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree07_01.pet"
+	*Pos 702.45 59.00 184.54
+	*Rot 0.0 168.0 0.0
+	*Scale 0.87
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 134
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos 673.38 50.18 182.09
+	*Rot 0.0 146.0 0.0
+	*Scale 0.90
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 135
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_subtree_10_01.pet"
+	*Pos 739.99 67.54 275.80
+	*Rot 0.0 26.0 0.0
+	*Scale 2.69
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 136
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_subtree_10_01.pet"
+	*Pos 708.74 43.30 74.62
+	*Rot 0.0 81.0 0.0
+	*Scale 2.69
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 137
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree8.pet"
+	*Pos 771.07 87.84 132.84
+	*Rot 0.0 153.0 0.0
+	*Scale 2.98
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 138
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree8.pet"
+	*Pos 810.29 80.63 62.30
+	*Rot 0.0 153.0 0.0
+	*Scale 2.68
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 139
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_subtree_10_01.pet"
+	*Pos -360.33 76.34 691.29
+	*Rot 0.0 -154.0 0.0
+	*Scale 2.94
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 140
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_001.pet"
+	*Pos 685.48 71.27 408.00
+	*Rot 9.0 -57.0 0.0
+	*Scale 0.89
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 141
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_box_01.pet"
+	*Pos 175.49 54.18 -660.84
+	*Rot 0.0 -9.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 142
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_box_01.pet"
+	*Pos 152.80 54.18 -656.06
+	*Rot 0.0 47.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 143
+{
+	*Type  "PUPPET"
+	*Class "WVtxObj"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_sand_booster_02.pet"
+	*Script "100 100"
+	*Pos 70.99 37.46 -184.43
+	*Rot 0.0 25.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 1
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 144
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree8.pet"
+	*Pos 801.01 70.48 13.95
+	*Rot 0.0 218.0 0.0
+	*Scale 2.52
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 145
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree8.pet"
+	*Pos -391.34 78.59 235.12
+	*Rot 0.0 139.0 0.0
+	*Scale 2.49
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 146
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree8.pet"
+	*Pos -453.08 78.45 34.33
+	*Rot -9.0 -65.0 9.0
+	*Scale 2.95
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 147
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree16.pet"
+	*Pos 779.32 77.38 180.27
+	*Rot 0.0 164.0 0.0
+	*Scale 0.95
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 148
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree8.pet"
+	*Pos -294.01 93.92 644.30
+	*Rot 0.0 105.0 0.0
+	*Scale 2.76
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 149
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos -72.28 66.12 681.18
+	*Rot 0.0 0.0 -4.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 150
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos -446.96 88.27 452.46
+	*Rot 0.0 84.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 151
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_backdroop005.pet"
+	*Pos 524.60 61.55 -383.31
+	*Rot 0.0 0.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 152
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_backdroop005.pet"
+	*Pos 489.71 51.72 -394.39
+	*Rot 0.0 108.0 0.0
+	*Scale 0.49
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 153
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_blue_tree11.pet"
+	*Pos -459.56 50.37 -26.16
+	*Rot 0.0 328.0 0.0
+	*Scale 1.75
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 154
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_tree07_01.pet"
+	*Pos -426.46 62.29 97.48
+	*Rot 0.0 -12.0 0.0
+	*Scale 0.90
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 155
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_B_palmtree01_1.pet"
+	*Pos -215.77 115.56 721.35
+	*Rot 0.0 0.0 0.0
+	*Scale 1.86
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 156
+{
+	*Type  "AREA"
+	*Class "WNPC"
+	*Name  "*type 21 *pet NPC_Alex01.pet *num 2 *vel 2"
+	*MinMax 225.08 50.65 -601.47	372.92 78.50 -479.01
+}
+
+*Element 157
+{
+	*Type  "AREA"
+	*Class "WNPC"
+	*Name  "*type 21 *pet NPC_Alex01.pet *num 3 *vel 2"
+	*MinMax -438.66 50.65 238.82	-326.57 78.50 429.96
+}
+
+*Element 158
+{
+	*Type  "AREA"
+	*Class "WNPC"
+	*Name  "*type 22 *pet NPC_shiro.pet *num 3"
+	*MinMax 49.91 239.92 374.47	662.55 368.58 756.68
+}
+
+*Element 159
+{
+	*Type  "AREA"
+	*Class "WNPC"
+	*Name  "*type 22 *pet NPC_Shiro.pet *num 3"
+	*MinMax -618.08 125.20 -193.64	-246.55 256.56 267.63
+}
+
+*Element 160
+{
+	*Type  "AREA"
+	*Class "WNPC"
+	*Name  "*type 22 *pet NPC_zini.pet *num 2"
+	*MinMax 595.41 123.24 -195.31	972.91 219.83 114.77
+}
+
+*Element 161
+{
+	*Type  "AREA"
+	*Class "WNPC"
+	*Name  "*type 21 *pet NPC_Alex03.pet *num 2 *vel 2"
+	*MinMax 103.04 50.65 -575.13	263.32 78.50 -495.49
+}
+
+*Element 162
+{
+	*Type  "PUPPET"
+	*Class "WVtxObj"
+	*Filename "D:/ProjectG_S4/bin/NPC/알렉스/NPC_Alex02.pet"
+	*Pos 567.10 120.19 466.58
+	*Rot 0.0 -34.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 163
+{
+	*Type  "PUPPET"
+	*Class "WVtxObj"
+	*Filename "D:/ProjectG_S4/bin/NPC/알렉스/NPC_Alex04.pet"
+	*Pos -372.41 94.71 585.70
+	*Rot 0.0 33.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 164
+{
+	*Type  "PUPPET"
+	*Class "WVtxObj"
+	*Filename "D:/ProjectG_S4/bin/NPC/알렉스/NPC_Alex04.pet"
+	*Pos 164.73 79.12 600.16
+	*Rot 13.0 31.0 -4.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 165
+{
+	*Type  "PUPPET"
+	*Class "WVtxObj"
+	*Filename "D:/ProjectG_S4/bin/NPC/알렉스/NPC_Alex04.pet"
+	*Pos 751.10 103.47 360.01
+	*Rot 0.0 -67.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 166
+{
+	*Type  "AREA"
+	*Class "WNPC"
+	*Name  "*type 22 *pet NPC_zini.pet *num 3"
+	*MinMax -472.44 182.31 488.66	-32.45 313.67 813.01
+}
+
+*Element 167
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_palmtree02_1.pet"
+	*Pos -454.43 91.76 66.50
+	*Rot 16.0 207.0 -10.0
+	*Scale 1.46
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 168
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_ect06-b.pet"
+	*Pos -236.53 39.59 122.91
+	*Rot 0.0 17.0 0.0
+	*Scale 1.99
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 169
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_002.pet"
+	*Pos -319.95 41.62 33.50
+	*Rot 0.0 -117.0 0.0
+	*Scale 1.32
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 170
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos 469.87 48.64 267.36
+	*Rot 0.0 72.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 171
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_002.pet"
+	*Pos 422.92 63.94 477.01
+	*Rot 0.0 -138.0 17.0
+	*Scale 1.32
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 172
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos 430.91 69.10 519.83
+	*Rot 0.0 124.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 173
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_subtree_10_01.pet"
+	*Pos 456.80 68.49 475.63
+	*Rot 0.0 26.0 0.0
+	*Scale 2.69
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 174
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/Gs_ect06-b.pet"
+	*Pos 728.74 61.34 175.29
+	*Rot 0.0 17.0 0.0
+	*Scale 1.99
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 175
+{
+	*Type  "PUPPET"
+	*Class "WVtxObj"
+	*Filename "D:/ProjectG_S4/bin/NPC/헤럴드/NPC_Herald02.pet"
+	*Pos -51.25 42.58 -306.99
+	*Rot 0.0 -45.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 176
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos 11.29 46.06 -264.06
+	*Rot 0.0 53.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 177
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_003.pet"
+	*Pos -22.71 41.82 -300.79
+	*Rot 0.0 54.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 178
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_s_flower_04.pet"
+	*Pos 21.07 49.54 -731.89
+	*Rot 0.0 0.0 0.0
+	*Scale 1.54
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 179
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_s_flower_02.pet"
+	*Pos 253.83 52.78 -779.49
+	*Rot 0.0 0.0 0.0
+	*Scale 1.15
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 180
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_s_flower_04.pet"
+	*Pos 473.08 42.51 -387.70
+	*Rot 0.0 0.0 0.0
+	*Scale 1.47
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 181
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_s_flower_04.pet"
+	*Pos 785.28 42.34 -39.93
+	*Rot 0.0 0.0 0.0
+	*Scale 1.90
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 182
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_s_flower_02.pet"
+	*Pos -61.83 40.27 -322.44
+	*Rot 0.0 0.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 183
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_s_flower_02.pet"
+	*Pos -446.13 64.26 109.70
+	*Rot 0.0 0.0 0.0
+	*Scale 1.52
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 184
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_s_flower_04.pet"
+	*Pos -376.13 52.91 90.71
+	*Rot 0.0 0.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 185
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_s_flower_02.pet"
+	*Pos -197.58 72.44 668.92
+	*Rot 0.0 0.0 0.0
+	*Scale 1.27
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 186
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_s_flower_02.pet"
+	*Pos 460.54 47.49 241.42
+	*Rot 0.0 0.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 187
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_s_flower_02.pet"
+	*Pos 338.32 46.95 -161.41
+	*Rot 0.0 0.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 188
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_s_flower_04.pet"
+	*Pos 352.31 48.22 -139.38
+	*Rot 0.0 0.0 0.0
+	*Scale 1.54
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 189
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_blue_flower_002.pet"
+	*Pos -303.73 75.73 659.59
+	*Rot 0.0 0.0 0.0
+	*Scale 1.32
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 190
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_s_flower_02.pet"
+	*Pos -245.34 79.72 699.31
+	*Rot 0.0 59.0 0.0
+	*Scale 1.48
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 191
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_s_flower_04.pet"
+	*Pos -331.00 58.60 -303.71
+	*Rot 0.0 0.0 0.0
+	*Scale 1.54
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 192
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_s_flower_04.pet"
+	*Pos -313.32 53.51 -281.99
+	*Rot 0.0 0.0 0.0
+	*Scale 1.41
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 193
+{
+	*Type  "AREA"
+	*Class "WNPC"
+	*Name  "*type 22 *pet NPC_zini.pet *num 2"
+	*MinMax 590.44 137.67 175.59	967.94 234.26 485.66
+}
+
+*Element 194
+{
+	*Type  "PUPPET"
+	*Class "WVtxObj"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/Ase/gs_Ship_02.pet"
+	*Pos 318.20 43.04 565.63
+	*Rot 0.0 -11.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 195
+{
+	*Type  "PUPPET"
+	*Class "WGround"
+	*Filename "D:/ProjectG_S4/bin/data/Round14_Green sand/map/gren_16.pet"
+	*Pos 167.74 63.96 -94.85
+	*Rot 0.0 0.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 196
+{
+	*Type  "AREA"
+	*Class "WEventArea"
+	*Name  "*extra"
+	*MinMax -241.31 0.00 257.75	-20.83 57.16 335.33
+}
+
+*Element 197
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "대화방시작"
+	*Pos -57.60 0.00 143.10
+}
+
+*Element 198
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/ase/GS_ppl_01.pet"
+	*Pos 4.68 66.27 -725.70
+	*Rot 0.0 -86.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 199
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG_S4/bin/Round14_Green sand/ase/GS_ppl_01.pet"
+	*Pos 9.72 90.93 639.17
+	*Rot 0.0 -49.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+#End of WangED project file.
