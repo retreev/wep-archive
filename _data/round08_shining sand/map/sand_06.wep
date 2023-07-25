@@ -1,0 +1,1201 @@
+#WEP V1.20 for Pangya
+#This is auto generated project file which is made by WangED. Don't edit this file.
+
+
+*RootDir "D:/ProjectG/data/"
+
+*NumPuppet 19
+   0 : "D:/ProjectG/data/Round08_Shining sand/Ase/sand_house01.pet"
+   1 : "D:/ProjectG/data/Round08_Shining sand/Ase/sand_house04.pet"
+   2 : "D:/ProjectG/data/Round08_Shining sand/Ase/sand_grass01.pet"
+   3 : "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree01.pet"
+   4 : "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree03.pet"
+   5 : "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree05.pet"
+   6 : "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree06.pet"
+   7 : "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree07.pet"
+   8 : "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree08.pet"
+   9 : "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree04.pet"
+  10 : "D:/ProjectG/data/Round08_Shining sand/Ase/sand_house05.pet"
+  11 : "D:/ProjectG/data/Round08_Shining sand/Ase/sand_house10.pet"
+  12 : "D:/ProjectG/data/Round08_Shining sand/Ase/sand_house09.pet"
+  13 : "D:/ProjectG/data/Round08_Shining sand/Ase/sand_ppl01.pet"
+  14 : "D:/ProjectG/data/Round08_Shining sand/Ase/sand_ppl02.pet"
+  15 : "D:/ProjectG/data/Round08_Shining sand/Ase/sand_ppl03.pet"
+  16 : "D:/ProjectG/data/Round08_Shining sand/Ase/sand_start01.pet"
+  17 : "D:/ProjectG/data/Round08_Shining sand/Ase/sand_house14.pet"
+  18 : "D:/ProjectG/data/Round08_Shining sand/Map/sand_06.pet"
+
+
+*NumVisGroup 0
+
+*NumNodeList 4
+
+*Node 0
+{
+	*Name	"outline"
+	*Type	0
+	*Num		26
+	*Show	1
+	*Npos	-326.219 0.000 -674.999
+	*Npos	-221.688 0.000 -748.558
+	*Npos	-90.056 0.000 -791.144
+	*Npos	45.447 0.000 -802.759
+	*Npos	184.822 0.000 -752.429
+	*Npos	304.839 0.000 -671.127
+	*Npos	371.888 0.000 -520.834
+	*Npos	426.090 0.000 -369.844
+	*Npos	477.310 0.000 -193.846
+	*Npos	544.873 0.000 -44.788
+	*Npos	533.259 0.000 176.926
+	*Npos	513.901 0.000 362.759
+	*Npos	463.572 0.000 560.872
+	*Npos	343.554 0.000 684.761
+	*Npos	153.850 0.000 777.677
+	*Npos	-43.598 0.000 804.778
+	*Npos	-279.760 0.000 721.640
+	*Npos	-437.362 0.000 646.474
+	*Npos	-491.563 0.000 572.915
+	*Npos	-565.122 0.000 394.083
+	*Npos	-568.994 0.000 185.021
+	*Npos	-561.970 0.000 27.194
+	*Npos	-520.617 0.000 -170.695
+	*Npos	-478.030 0.000 -325.556
+	*Npos	-431.572 0.000 -486.790
+	*Npos	-380.420 0.000 -604.294
+}
+
+*Node 1
+{
+	*Name	"auto"
+	*Type	0
+	*Num		3
+	*Show	1
+	*Npos	-36.665 0.000 -503.448
+	*Npos	2.781 0.000 -125.619
+	*Npos	12.171 0.000 200.619
+}
+
+*Node 2
+{
+	*Name	"ib0"
+	*Type	0
+	*Num		19
+	*Show	1
+	*Npos	-612.634 0.000 392.511
+	*Npos	-526.296 0.000 366.130
+	*Npos	-462.741 0.000 362.533
+	*Npos	-405.182 0.000 367.329
+	*Npos	-360.814 0.000 382.918
+	*Npos	-308.051 0.000 416.471
+	*Npos	-278.073 0.000 450.047
+	*Npos	-231.306 0.000 475.229
+	*Npos	-167.752 0.000 486.174
+	*Npos	-117.388 0.000 510.157
+	*Npos	-83.811 0.000 556.938
+	*Npos	-63.426 0.000 610.900
+	*Npos	-74.218 0.000 680.450
+	*Npos	-86.210 0.000 741.306
+	*Npos	-95.803 0.000 818.051
+	*Npos	-110.193 0.000 864.818
+	*Npos	-302.677 0.000 816.616
+	*Npos	-615.739 0.000 634.253
+	*Npos	-655.781 0.000 481.148
+}
+
+*Node 3
+{
+	*Name	"npc_ufo"
+	*Type	0
+	*Num		2
+	*Show	1
+	*Npos	-521.077 259.649 193.104
+	*Npos	1059.224 259.649 633.960
+}
+
+*NumElement 84
+
+*Element 0
+{
+	*Type  "GAME"
+	*WadFile ""
+	*BspFile ""
+	*Ambient 158 145 130
+	*Diffuse 241 240 247
+	*Ambient2 255 255 255
+	*Shadow 149 141 152
+	*Par 3
+}
+
+*Element 1
+{
+	*Type  "CAMERA"
+	*Class ""
+	*Name  "DefaultCamera"
+	*Pos -582.24 242.04 -248.59
+	*Dest -500.73 206.82 -177.98
+	*Fov 55.00
+	*Bank 0.00
+}
+
+*Element 2
+{
+	*Type  "POINT"
+	*Class "WSun"
+	*Name  "태양"
+	*Pos 412.81 957.60 -789.22
+	*Data ""
+}
+
+*Element 3
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "시작점"
+	*Pos -37.51 0.00 -505.92
+}
+
+*Element 4
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "끝점1_1"
+	*Pos -41.15 0.00 232.38
+}
+
+*Element 5
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "그리드"
+	*Pos -17.36 0.00 228.23
+}
+
+*Element 6
+{
+	*Type  "CAMERA"
+	*Class "WCamera"
+	*Name  "카메라3"
+	*Pos 437.96 10.19 526.12
+	*Dest 354.08 -0.81 447.01
+	*Fov 60.00
+	*Bank 0.00
+}
+
+*Element 7
+{
+	*Type  "CAMERA"
+	*Class "WCamera"
+	*Name  "카메라4"
+	*Pos 298.82 23.57 307.37
+	*Dest 276.47 0.72 193.48
+	*Fov 65.60
+	*Bank 0.00
+}
+
+*Element 8
+{
+	*Type  "CAMERA"
+	*Class "WCamera"
+	*Name  "카메라5"
+	*Pos -395.40 37.00 -254.50
+	*Dest -316.00 23.00 -195.40
+	*Fov 60.00
+	*Bank 0.00
+}
+
+*Element 9
+{
+	*Type  "CAMERA"
+	*Class "WCamera"
+	*Name  "카메라6"
+	*Pos 128.76 420.69 -1106.67
+	*Dest 155.28 368.56 -1011.05
+	*Fov 60.00
+	*Bank 0.00
+}
+
+*Element 10
+{
+	*Type  "CAMERA"
+	*Class "WCamera"
+	*Name  "카메라7"
+	*Pos -329.40 90.10 529.80
+	*Dest -268.14 60.03 456.71
+	*Fov 60.00
+	*Bank 0.00
+}
+
+*Element 11
+{
+	*Type  "CAMERA"
+	*Class "WCamera"
+	*Name  "카메라8"
+	*Pos -82.00 208.97 968.76
+	*Dest -53.62 160.35 886.11
+	*Fov 20.00
+	*Bank 0.00
+}
+
+*Element 12
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "시작점2"
+	*Pos -37.49 0.00 -539.53
+}
+
+*Element 13
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "끝점2_1"
+	*Pos -67.29 0.00 237.20
+}
+
+*Element 14
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "끝점1_2"
+	*Pos -6.37 0.00 253.61
+}
+
+*Element 15
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "끝점1_3"
+	*Pos 17.47 0.00 221.98
+}
+
+*Element 16
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "끝점2_2"
+	*Pos -15.97 0.00 211.60
+}
+
+*Element 17
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "끝점2_3"
+	*Pos 60.32 0.00 232.18
+}
+
+*Element 18
+{
+	*Type  "POINT"
+	*Class "WGlobalLight"
+	*Name  ""
+	*Pos 412.54 961.57 -785.25
+}
+
+*Element 19
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree05.pet"
+	*Pos -148.51 55.59 568.20
+	*Rot 0.0 270.0 0.0
+	*Scale 1.70
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 20
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree06.pet"
+	*Pos -425.00 74.46 484.50
+	*Rot 0.0 270.0 0.0
+	*Scale 2.05
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 21
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree07.pet"
+	*Pos -470.28 82.09 525.68
+	*Rot 0.0 270.0 0.0
+	*Scale 1.70
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 22
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree06.pet"
+	*Pos -480.39 75.73 441.14
+	*Rot 0.0 254.0 0.0
+	*Scale 1.70
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 23
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree07.pet"
+	*Pos 507.19 86.55 -104.57
+	*Rot 0.0 180.0 0.0
+	*Scale 1.70
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 24
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_house01.pet"
+	*Pos -476.81 69.31 84.38
+	*Rot 0.0 -102.0 -8.0
+	*Scale 1.21
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 25
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_house01.pet"
+	*Pos -164.58 26.28 385.15
+	*Rot -3.0 -132.0 -6.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 1
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 26
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree07.pet"
+	*Pos -471.56 70.49 142.62
+	*Rot 0.0 131.0 0.0
+	*Scale 2.39
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 27
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree03.pet"
+	*Pos -305.69 57.34 568.61
+	*Rot 0.0 270.0 0.0
+	*Scale 1.08
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 28
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree03.pet"
+	*Pos -146.27 67.89 708.03
+	*Rot 0.0 155.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 29
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree08.pet"
+	*Pos 411.34 72.09 500.13
+	*Rot 0.0 105.0 0.0
+	*Scale 3.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 30
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree07.pet"
+	*Pos 470.92 73.78 399.68
+	*Rot 0.0 105.0 0.0
+	*Scale 2.39
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 31
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree07.pet"
+	*Pos -407.67 71.18 518.24
+	*Rot 0.0 90.0 0.0
+	*Scale 2.39
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 32
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_grass01.pet"
+	*Pos -371.18 84.19 -358.11
+	*Rot 0.0 -16.0 0.0
+	*Scale 2.30
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 33
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree07.pet"
+	*Pos -536.07 67.00 406.20
+	*Rot 0.0 -14.0 0.0
+	*Scale 2.14
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 34
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree07.pet"
+	*Pos -493.57 74.17 165.02
+	*Rot 0.0 -104.0 0.0
+	*Scale 1.93
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 35
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree07.pet"
+	*Pos -515.76 59.60 336.03
+	*Rot 0.0 -14.0 0.0
+	*Scale 2.43
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 36
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree08.pet"
+	*Pos -488.59 61.85 374.76
+	*Rot 0.0 49.0 0.0
+	*Scale 2.72
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 37
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree01.pet"
+	*Pos -206.76 60.51 592.27
+	*Rot 0.0 75.0 0.0
+	*Scale 2.50
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 38
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree07.pet"
+	*Pos -290.87 64.74 702.08
+	*Rot 0.0 194.0 0.0
+	*Scale 3.09
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 39
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree07.pet"
+	*Pos -248.13 68.38 671.19
+	*Rot 0.0 306.0 0.0
+	*Scale 2.37
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 40
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree06.pet"
+	*Pos -341.64 57.08 648.39
+	*Rot 0.0 206.0 0.0
+	*Scale 2.43
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 41
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree06.pet"
+	*Pos -404.70 70.41 574.94
+	*Rot 0.0 206.0 0.0
+	*Scale 2.60
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 42
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree07.pet"
+	*Pos 467.97 71.70 -170.47
+	*Rot 0.0 51.0 0.0
+	*Scale 2.84
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 43
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree07.pet"
+	*Pos -9.64 90.99 -683.60
+	*Rot 0.0 -127.0 0.0
+	*Scale 1.40
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 44
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree07.pet"
+	*Pos 33.73 91.30 -681.87
+	*Rot 0.0 -127.0 0.0
+	*Scale 2.75
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 45
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree07.pet"
+	*Pos -378.18 62.84 571.13
+	*Rot 0.0 150.0 0.0
+	*Scale 2.39
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 46
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_grass01.pet"
+	*Pos -96.83 51.93 590.46
+	*Rot 0.0 95.0 0.0
+	*Scale 2.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 47
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree03.pet"
+	*Pos 525.00 82.36 -69.08
+	*Rot 0.0 228.0 0.0
+	*Scale 1.08
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 48
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree07.pet"
+	*Pos -119.28 59.64 655.02
+	*Rot 0.0 170.0 0.0
+	*Scale 2.39
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 49
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree06.pet"
+	*Pos -157.64 61.16 615.95
+	*Rot 0.0 -42.0 0.0
+	*Scale 2.60
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 50
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree04.pet"
+	*Pos 399.05 69.29 573.30
+	*Rot 0.0 52.0 0.0
+	*Scale 0.81
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 51
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree07.pet"
+	*Pos 328.55 67.80 592.64
+	*Rot 0.0 58.0 0.0
+	*Scale 2.39
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 52
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree07.pet"
+	*Pos 236.92 73.58 660.65
+	*Rot 0.0 20.0 0.0
+	*Scale 2.39
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 53
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree07.pet"
+	*Pos 216.82 81.05 707.13
+	*Rot 0.0 139.0 0.0
+	*Scale 2.39
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 54
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree07.pet"
+	*Pos -519.55 61.75 280.72
+	*Rot 0.0 140.0 0.0
+	*Scale 2.39
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 55
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree06.pet"
+	*Pos 180.06 72.92 690.02
+	*Rot 0.0 136.0 0.0
+	*Scale 2.60
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 56
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree07.pet"
+	*Pos 240.77 77.59 -454.51
+	*Rot 0.0 -180.0 0.0
+	*Scale 3.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 57
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_grass01.pet"
+	*Pos -100.00 50.98 553.36
+	*Rot 0.0 185.0 0.0
+	*Scale 1.35
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 58
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree07.pet"
+	*Pos -204.81 60.90 611.06
+	*Rot 0.0 90.0 0.0
+	*Scale 2.39
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 59
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree05.pet"
+	*Pos -152.72 54.37 551.59
+	*Rot 0.0 329.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 60
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_house05.pet"
+	*Pos 105.40 23.78 713.98
+	*Rot 0.0 0.0 -13.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 1
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 61
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_house10.pet"
+	*Pos 306.30 66.88 -331.26
+	*Rot 0.0 -110.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 62
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_house10.pet"
+	*Pos 352.74 68.63 -214.93
+	*Rot 0.0 -149.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 63
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_house01.pet"
+	*Pos -41.67 43.05 454.97
+	*Rot 0.0 6.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 1
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 64
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_house01.pet"
+	*Pos 214.87 4.79 276.41
+	*Rot -3.0 -90.0 3.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 1
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 65
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_house01.pet"
+	*Pos 163.32 33.07 403.08
+	*Rot 0.0 -40.0 7.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 1
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 66
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_house09.pet"
+	*Pos -412.44 66.45 -180.62
+	*Rot -25.0 69.0 39.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 1
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 67
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_house04.pet"
+	*Pos -400.76 18.37 406.71
+	*Rot 0.0 49.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 1
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 68
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree01.pet"
+	*Pos -341.69 51.40 -42.93
+	*Rot 0.0 -23.0 0.0
+	*Scale 2.88
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 69
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree07.pet"
+	*Pos -391.47 58.69 -29.17
+	*Rot 0.0 223.0 0.0
+	*Scale 1.70
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 70
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_grass01.pet"
+	*Pos -334.25 83.09 -386.39
+	*Rot 0.0 -16.0 0.0
+	*Scale 1.70
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 71
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_grass01.pet"
+	*Pos -330.15 79.50 -352.58
+	*Rot 0.0 -16.0 0.0
+	*Scale 1.24
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 72
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_house10.pet"
+	*Pos 259.14 57.86 -199.24
+	*Rot 0.0 -97.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 73
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_house01.pet"
+	*Pos -171.97 10.36 202.43
+	*Rot 17.0 -54.0 -6.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 1
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 74
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_house01.pet"
+	*Pos 149.44 18.43 142.25
+	*Rot 0.0 -129.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 1
+	*ForceOpaque 1
+	*DiffLayer "normal"
+}
+
+*Element 75
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_tree06.pet"
+	*Pos -305.67 49.71 433.93
+	*Rot 0.0 206.0 0.0
+	*Scale 2.43
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 76
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_ppl01.pet"
+	*Pos -180.05 78.94 -499.62
+	*Rot 0.0 66.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 77
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_ppl02.pet"
+	*Pos -174.44 81.03 -565.28
+	*Rot 0.0 100.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 78
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_ppl03.pet"
+	*Pos -133.76 81.74 -608.62
+	*Rot 0.0 138.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 79
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_start01.pet"
+	*Pos -25.40 78.43 -485.16
+	*Rot 0.0 -100.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 80
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_start01.pet"
+	*Pos -51.73 78.37 -485.00
+	*Rot 0.0 100.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 81
+{
+	*Type  "POINT"
+	*Class "WSecondaryGlobalLight"
+	*Name  ""
+	*Pos -501.74 357.10 -550.21
+	*Data ""
+}
+
+*Element 82
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Ase/sand_house14.pet"
+	*Script "55 45"
+	*Pos -11.01 49.36 -192.28
+	*Rot -180.0 180.0 180.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 83
+{
+	*Type  "PUPPET"
+	*Class "WGround"
+	*Filename "D:/ProjectG/data/Round08_Shining sand/Map/sand_06.pet"
+	*Pos -9.87 66.45 -10.35
+	*Rot 0.0 0.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+#End of WangED project file.
