@@ -1,0 +1,553 @@
+#WEP V1.20 for Pangya
+#This is auto generated project file which is made by WangED. Don't edit this file.
+
+
+*RootDir "D:/ProjectG/data/"
+
+*NumPuppet 12
+   0 : "D:/ProjectG/data/Round09_Ice Cannon/Rank/icee_rank.pet"
+   1 : "D:/ProjectG/data/Round09_Ice Cannon/Ase/ice_grass01.pet"
+   2 : "D:/ProjectG/data/Round09_Ice Cannon/Ase/ice_glacier01.pet"
+   3 : "D:/ProjectG/data/Round09_Ice Cannon/Ase/igloo_1.pet"
+   4 : "D:/ProjectG/data/Round09_Ice Cannon/Ase/igloo_4.pet"
+   5 : "D:/ProjectG/data/Round09_Ice Cannon/Ase/ice_tree03.pet"
+   6 : "D:/ProjectG/data/Round09_Ice Cannon/Ase/ice_tree01.pet"
+   7 : "D:/ProjectG/data/Round09_Ice Cannon/Ase/ice_grass02.pet"
+   8 : "D:/ProjectG/data/Round09_Ice Cannon/Ase/ice_glacier03.pet"
+   9 : "D:/ProjectG/data/Round09_Ice Cannon/Ase/ice_ect01.pet"
+  10 : "D:/ProjectG/data/Round09_Ice Cannon/Ani_Object/igloo_4_ani.pet"
+  11 : "D:/ProjectG/data/Round09_Ice Cannon/Ase/ice_tree02.pet"
+
+
+*NumVisGroup 0
+
+*NumNodeList 2
+
+*Node 0
+{
+	*Name	"outline"
+	*Type	0
+	*Num		21
+	*Show	1
+	*Npos	477.738 0.000 40.288
+	*Npos	446.124 0.000 -61.179
+	*Npos	345.032 0.000 -118.851
+	*Npos	229.250 0.000 -121.036
+	*Npos	104.418 0.000 -122.494
+	*Npos	8.917 0.000 -160.949
+	*Npos	-85.839 0.000 -183.337
+	*Npos	-218.916 0.000 -160.711
+	*Npos	-321.301 0.000 -92.549
+	*Npos	-352.211 0.000 -17.510
+	*Npos	-347.632 0.000 84.179
+	*Npos	-294.430 0.000 189.021
+	*Npos	-211.239 0.000 241.315
+	*Npos	-105.720 0.000 276.777
+	*Npos	-5.441 0.000 309.332
+	*Npos	90.580 0.000 324.870
+	*Npos	173.969 0.000 311.047
+	*Npos	256.884 0.000 265.667
+	*Npos	355.302 0.000 234.114
+	*Npos	433.646 0.000 153.229
+	*Npos	479.508 0.000 56.292
+}
+
+*Node 1
+{
+	*Name	"auto"
+	*Type	0
+	*Num		12
+	*Show	1
+	*Npos	56.428 0.000 228.484
+	*Npos	114.964 0.000 199.379
+	*Npos	192.607 0.000 192.141
+	*Npos	258.170 0.000 138.897
+	*Npos	322.989 0.000 92.243
+	*Npos	432.182 0.000 93.665
+	*Npos	487.108 0.000 114.006
+	*Npos	417.830 0.000 248.658
+	*Npos	168.297 0.000 346.551
+	*Npos	-6.417 0.000 339.694
+	*Npos	-1.533 0.000 294.800
+	*Npos	42.607 0.000 238.710
+}
+
+*NumElement 43
+
+*Element 0
+{
+	*Type  "GAME"
+	*WadFile ""
+	*BspFile ""
+	*Ambient 169 167 211
+	*Diffuse 221 238 251
+	*Ambient2 251 244 245
+	*Shadow 204 199 218
+	*Par 4
+}
+
+*Element 1
+{
+	*Type  "CAMERA"
+	*Class ""
+	*Name  "DefaultCamera"
+	*Pos 109.44 3.77 100.49
+	*Dest 167.90 -2.11 196.25
+	*Fov 74.80
+	*Bank 0.00
+}
+
+*Element 2
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "시작점"
+	*Pos 121.26 68.25 125.93
+}
+
+*Element 3
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "끝점"
+	*Pos 130.31 0.00 119.84
+}
+
+*Element 4
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "그리드"
+	*Pos 125.41 0.00 117.21
+}
+
+*Element 5
+{
+	*Type  "CAMERA"
+	*Class "WCamera"
+	*Name  "시상식카메라"
+	*Pos 39.82 2.36 31.66
+	*Dest -37.13 16.66 96.24
+	*Fov 55.00
+	*Bank 0.00
+}
+
+*Element 6
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "1인_1등"
+	*Pos 1.40 114.98 25.59
+}
+
+*Element 7
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "2인_1등"
+	*Pos 2.87 28.59 20.99
+}
+
+*Element 8
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "2인_2등"
+	*Pos -3.46 28.59 22.44
+}
+
+*Element 9
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "3인_1등"
+	*Pos 7.21 39.26 24.23
+}
+
+*Element 10
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "3인_2등"
+	*Pos 0.80 39.26 22.00
+}
+
+*Element 11
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "3인_3등"
+	*Pos -4.82 39.26 25.10
+}
+
+*Element 12
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "4인_1등"
+	*Pos -1.02 49.25 19.17
+}
+
+*Element 13
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "4인_2등"
+	*Pos -6.38 49.61 29.37
+}
+
+*Element 14
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "4인_3등"
+	*Pos 1.55 49.43 29.35
+}
+
+*Element 15
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "4인_4등"
+	*Pos 8.40 49.43 29.94
+}
+
+*Element 16
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "커플_1등"
+	*Pos -4.92 64.55 24.13
+}
+
+*Element 17
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "커플_2등"
+	*Pos -0.60 64.55 25.80
+}
+
+*Element 18
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "커플_3등"
+	*Pos 3.10 64.55 31.63
+}
+
+*Element 19
+{
+	*Type  "POINT"
+	*Class "WPoint"
+	*Name  "커플_4등"
+	*Pos 7.75 64.55 30.29
+}
+
+*Element 20
+{
+	*Type  "POINT"
+	*Class "WGlobalLight"
+	*Name  ""
+	*Pos 346.38 227.97 -95.38
+}
+
+*Element 21
+{
+	*Type  "PUPPET"
+	*Class "WGround"
+	*Filename "D:/ProjectG/data/Round09_Ice Cannon/Rank/icee_rank.pet"
+	*Pos 0.00 0.00 0.00
+	*Rot 0.0 0.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 22
+{
+	*Type  "POINT"
+	*Class "WSun"
+	*Name  "태양"
+	*Pos 346.20 241.04 -91.60
+	*Data ""
+}
+
+*Element 23
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round09_Ice Cannon/Ase/igloo_1.pet"
+	*Pos 114.06 -4.28 259.35
+	*Rot 0.0 -32.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 24
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round09_Ice Cannon/Ase/igloo_4.pet"
+	*Pos 162.45 -3.52 220.57
+	*Rot 0.0 -19.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 25
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round09_Ice Cannon/Ase/ice_tree03.pet"
+	*Pos 170.61 0.56 259.81
+	*Rot 0.0 40.0 12.0
+	*Scale 0.64
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 26
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round09_Ice Cannon/Ase/ice_glacier03.pet"
+	*Pos -240.18 35.61 170.46
+	*Rot 0.0 15.0 12.0
+	*Scale 0.99
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 27
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round09_Ice Cannon/Ase/ice_ect01.pet"
+	*Pos 135.52 -4.33 219.92
+	*Rot 10.0 0.0 5.0
+	*Scale 0.74
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 28
+{
+	*Type  "PUPPET"
+	*Class "WRotObj"
+	*Filename "D:/ProjectG/data/Round09_Ice Cannon/Ani_Object/igloo_4_ani.pet"
+	*Pos 162.73 6.84 221.29
+	*Rot -90.0 32.0 0.0
+	*Scale 1.00
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 29
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round09_Ice Cannon/Ase/ice_tree02.pet"
+	*Pos 162.29 -0.25 282.40
+	*Rot 0.0 -40.0 0.0
+	*Scale 1.07
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 30
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round09_Ice Cannon/Ase/ice_tree02.pet"
+	*Pos 204.15 1.81 224.95
+	*Rot 0.0 153.0 0.0
+	*Scale 0.70
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 31
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round09_Ice Cannon/Ase/ice_tree03.pet"
+	*Pos 86.54 6.04 297.85
+	*Rot 0.0 150.0 0.0
+	*Scale 0.82
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 32
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round09_Ice Cannon/Ase/ice_grass02.pet"
+	*Pos -108.42 24.83 230.57
+	*Rot -5.0 77.0 -22.0
+	*Scale 0.90
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 33
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round09_Ice Cannon/Ase/ice_grass02.pet"
+	*Pos 193.24 -2.06 196.52
+	*Rot 0.0 168.0 10.0
+	*Scale 0.81
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 34
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round09_Ice Cannon/Ase/ice_tree02.pet"
+	*Pos 211.85 5.25 253.67
+	*Rot 0.0 104.0 0.0
+	*Scale 0.45
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 35
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round09_Ice Cannon/Ase/ice_grass01.pet"
+	*Pos 54.94 -4.79 256.59
+	*Rot 0.0 108.0 0.0
+	*Scale 0.76
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 36
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round09_Ice Cannon/Ase/ice_grass01.pet"
+	*Pos 181.70 -2.36 218.00
+	*Rot 0.0 -60.0 0.0
+	*Scale 0.54
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 37
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round09_Ice Cannon/Ase/ice_tree01.pet"
+	*Pos 206.46 -0.08 197.59
+	*Rot 0.0 -90.0 0.0
+	*Scale 0.76
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 38
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round09_Ice Cannon/Ase/ice_grass01.pet"
+	*Pos -205.30 28.47 180.51
+	*Rot 0.0 126.0 0.0
+	*Scale 0.77
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 39
+{
+	*Type  "POINT"
+	*Class "WSecondaryGlobalLight"
+	*Name  ""
+	*Pos 346.40 116.15 -86.49
+	*Data ""
+}
+
+*Element 40
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round09_Ice Cannon/Ase/ice_glacier01.pet"
+	*Pos -236.65 42.49 199.60
+	*Rot -4.0 76.0 -22.0
+	*Scale 1.10
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 41
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round09_Ice Cannon/Ase/ice_tree03.pet"
+	*Pos -204.86 35.00 222.94
+	*Rot 0.0 150.0 0.0
+	*Scale 0.74
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+*Element 42
+{
+	*Type  "PUPPET"
+	*Class "WObject"
+	*Filename "D:/ProjectG/data/Round09_Ice Cannon/Ase/ice_tree01.pet"
+	*Pos -155.70 22.46 207.00
+	*Rot 0.0 -90.0 0.0
+	*Scale 0.59
+	*FlagShow 1
+	*NoLOD 0
+	*ForceOpaque 0
+	*DiffLayer "normal"
+}
+
+#End of WangED project file.
